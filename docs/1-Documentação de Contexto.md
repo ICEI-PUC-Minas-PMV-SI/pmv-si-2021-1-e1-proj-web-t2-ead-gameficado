@@ -1,7 +1,8 @@
 # Introdução
 
-<p>A globalização afetou as instituições de ensino de forma direta e intensa, ainda que em proporções diferentes para países desenvolvidos, emergentes e subdesenvolvidos, e, mesmo antes da pandemia, um dos seus efeitos foi a forte tendência a aplicação de Ensino a Distância (EaD) para alunos de educação superior, pós-graduação e educação não formal.</p>
-<p>A questão do EAD e da globalização é muito relacionada ao advento do uso da internet, mas esse processo se iniciou muito antes disso, a globalização veio a passos mais lentos, por outros meios que não só a internet, e o processo educacional não foi díspar, o EAD não data do século XXI e sequer do século passado, isso porque, segundo Pelli e Vieira (2018), a revolução da educação a distância se deu ainda no século XIX, através do uso do sistema de correio, mas, ainda que fosse uma revolução e contribuísse para o processo de globalização, o grande salto para esse processo foi sim o uso de uma rede com conexões globais rápidas e eficientes.</p>
+A globalização afetou as instituições de ensino de forma direta e intensa, ainda que em proporções diferentes para países desenvolvidos, emergentes e subdesenvolvidos, e, mesmo antes da pandemia, um dos seus efeitos foi a forte tendência a aplicação de Ensino a Distância (EaD) para alunos de educação superior, pós-graduação e educação não formal.
+
+A questão do EAD e da globalização é muito relacionada ao advento do uso da internet, mas esse processo se iniciou muito antes disso, a globalização veio a passos mais lentos, por outros meios que não só a internet, e o processo educacional não foi díspar, o EAD não data do século XXI e sequer do século passado, isso porque, segundo Pelli e Vieira (2018), a revolução da educação a distância se deu ainda no século XIX, através do uso do sistema de correio, mas, ainda que fosse uma revolução e contribuísse para o processo de globalização, o grande salto para esse processo foi sim o uso de uma rede com conexões globais rápidas e eficientes.</p>
   
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
