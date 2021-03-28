@@ -11,8 +11,6 @@
 <dd>- O aluno realiza as atividades e deixa-as disponíveis para a revisão dos pais ou tutores;</dd>
 <dd>- Os pais ou tutores checam os dados incluídos pela criança, dão as notas e informam se houve alguma recompensa para este aluno.</dd>
 </dl>
-  
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
