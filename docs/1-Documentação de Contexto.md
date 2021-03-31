@@ -7,9 +7,9 @@
 <p>Com foco em tentar promover um maior engajamento por parte de pais e alunos nos estudos na modalidade EaD, garantindo o sucesso desses nessa dinâmica, que se faz tão necessária no contexto presente, surgiu a motivação para a realização deste projeto, que visa auxiliar tutores e tutelados a terem um bom aproveitamento em atividades escolares e, através do método de recompensa, incentivar alunos da educação básica a terem maior boa vontade na prática de suas atividades do EaD. O público são os pais e tutores de alunos da educação básica, pois há uma necessidade de maior afinco e dedicação dos pais nessa primeira fase da educação, uma vez que estes alunos estão em fase inicial de aprender a aprender e, comumente, encontram dificuldades em realizar atividades sem supervisão e incentivo.</p>
 <p>O projeto terá como foco o controle, por pais e tutores, das atividades dos alunos, e a recompensa, em alguns casos específicos, para o incentivo do estudante. O esquema para que isso seja feito será o seguinte:</p>
 <dl>
-<dd>* Os pais ou os tutores postam as atividades escolares, já prevendo as notas possíveis, as datas de entrega e as recompensas que o aluno terá em caso de conseguir ter o desempenho almejado;</dd>
-<dd>* O aluno realiza as atividades e deixa-as disponíveis para a revisão dos pais ou tutores;</dd>
-<dd>* Os pais ou os tutores checam os dados incluídos pela criança, dão as notas e informam se houve alguma recompensa para este aluno.</dd>
+<dd>- Os pais ou os tutores postam as atividades escolares, já prevendo as notas possíveis, as datas de entrega e as recompensas que o aluno terá em caso de conseguir ter o desempenho almejado;</dd>
+<dd>- O aluno realiza as atividades e deixa-as disponíveis para a revisão dos pais ou tutores;</dd>
+<dd>- Os pais ou os tutores checam os dados incluídos pela criança, dão as notas e informam se houve alguma recompensa para este aluno.</dd>
 </dl>
 
 ## Problema
