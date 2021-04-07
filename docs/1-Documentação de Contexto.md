@@ -13,16 +13,24 @@
 </dl>
 
 ## Problema
+
+Como explicitado na introdução do projeto, a questão do Ensino a Distância (EaD) permeia a sociedade desde o século XIX entretanto, de forma mais sucinta. 
+Com o advento da internet de alta velocidade e a disseminação dos computadores pessoais, tablets e smartphones, foi-se consolidado um alicerce sólido para o surgimento de vários aplicativos e sites desenvolvidos, com o intuito de atender a demanda criada pelo EaD. Entretanto, ja na modalidade presencial, o método de ensino voltado a crianças e adolescentes possui características distintas e que exige a implementação de técnicas, estratégias e comportamentos específicos que favoreçam o aprendizado no sentido de chamar a atenção da criança e do adolescente, manter a mesma e desenvolver seu processo de aprendizado. Para corroborar esse fato, FAIP (2013, p. 4) nos orienta que é necessário desenvolver o processo de construção de uma criança e adolescente com atividades lúdicas, buscando por meio da diversão, atrair seu interesse e consequentemente desenvolver seu aprendizado.
+
+Para um sistema de ensino EaD, onde a criança e o adolescente terá que se valer de um computador, tablet ou até mesmo o smartphone, é necessário aplicar técnica que garantam seu foco e interesse.
+Caso clássico em uma sociedade pós-moderna é o vídeo infantil intitulado UPA CAVALINHO do canal Galinha Pintadinha (Galinha Pintadinha, 2021) que conta com mais de 1,7 bilhões de visualizações.
+Qual o segredo para tamanho sucesso? Os desenvolvedores se valeram de técnicas como cor, sons e movimentos, além de brincadeiras que são facilmente aplicadas no cotidiano infantil.
+Vale lembrar que a proposta do projeto EaD Gamification tem como público alvo crianças, pé-adolescentes e adolescentes. Dessa feita, devemos nos valer de exemplos de fácil aplicação dentro de cada faixa etária que se pretenda alcançar.
+
+Para a aplicação do recurso EaD Gamification, é necessário solucionar três questões básicas:
+
+Como prender a atenção da criança/adolescente?
+Como impulsionar e desenvolver seu aprendizado?
+Como integrar pais e tutores nesse processo?
+
+Esse projeto busca responder e trazer métodos práticos que possam solucionar as três questões levantadas acima.
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
