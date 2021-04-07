@@ -19,7 +19,7 @@
 <p>Na aplicação de um sistema de ensino EaD, onde a criança e o adolescente terá que se valer de um computador, tablet ou até mesmo o smartphone, é necessário aplicar técnica que garantam seu foco e interesse.
 Caso clássico em uma sociedade pós-moderna é o vídeo infantil intitulado UPA CAVALINHO do canal Galinha Pintadinha (Galinha Pintadinha, 2021) que conta com mais de 1,7 bilhões de visualizações.
 Qual o segredo para tamanho sucesso? Os desenvolvedores se valeram de técnicas como cor, sons e movimentos, além de brincadeiras que são facilmente aplicadas no cotidiano infantil.
-Vale lembrar que a proposta do projeto EaD Gamification tem como público alvo crianças, pé-adolescentes e adolescentes. Dessa feita, devemos nos valer de exemplos de fácil aplicação dentro de cada faixa etária que se pretenda alcançar.</p>
+Vale lembrar que a proposta do projeto EaD Gamification tem como público alvo crianças, pré-adolescentes e adolescentes. Dessa feita, devemos nos valer de exemplos de fácil aplicação dentro de cada faixa etária que se pretenda alcançar.</p>
 <p>Para a aplicação do recurso EaD Gamification, é necessário solucionar três questões básicas:</p>
 <p>Como prender a atenção da criança/adolescente?</p>
 <p>Como impulsionar e desenvolver seu aprendizado?</p>
