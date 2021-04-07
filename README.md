@@ -1,19 +1,21 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+SISTEMAS DE INFOMAÇÃO
 
-`DISCIPLINA`
+PROJETO DE APLICAÇÕES WEB
 
-`SEMESTRE`
+1º SEMESTRE
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Cleverson Christian da Rocha
+- Karina Bezerra dos Santos de Siqueira
+- Letícia de Sá Almeida Costa Silva Figueredo
+- Maitê Luise Freitas de Almeida Santos
 
 ## Professor
 
-- Mestre Yoda
+- Kleber Jacques Ferreira de Souza
 
 # Documentação
 
