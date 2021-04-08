@@ -8,13 +8,13 @@ PELLI, Débora; CÉSAR FREITAS VIEIRA, Flávio. **HISTÓRIA DA EDUCAÇÃO NA MOD
 
 SOUZA, Camila Lira de; ROIM, Talita Prado Barbosa. REVISTA CIENTÍFICA DE CIÊNCIAS APLICADAS DA FAIP. FAIP, Faculdade de Ensino Superior do Interior Paulista. Disponível em: http://faip.revista.inf.br/imagens_arquivos/arquivos_destaque/WqI9d4IR9SSDLb6_2016-6-15-19-15-46.pdf. Acesso em: 08 abr. 2021.
 
-ESCOLA GAMES. Aprenda brincando. Disponível em: http://www.escolagames.com.br/jogos/. Acesso em: 8 de abril. 2021
+ESCOLA GAMES. **Aprenda brincando**. Disponível em:http://www.escolagames.com.br/jogos/. Acesso em: 8 de abril. 2021
 
-LUDO EDUCATIVO. Jogo que ajuda na alfabetização, brincando com letras, palavras e sílabas. Disponível em: https://www.ludoeducativo.com.br/pt/play/ludo-primeiros-passos. Acesso em: 8 de abril. 2021
+LUDO EDUCATIVO. **Jogo que ajuda na alfabetização, brincando com letras, palavras e sílabas**. Disponível em:https://www.ludoeducativo.com.br/pt/play/ludo-primeiros-passos. Acesso em: 8 de abril. 2021
 
-BRINCANDO COM ARIÊ. Jogos educativos online projetados especialmente para crianças. Disponível em: https://brincandocomarie.com.br. Acesso em: 8 de abril. 2021
+BRINCANDO COM ARIÊ. **Jogos educativos online projetados especialmente para crianças**. Disponível em:https://brincandocomarie.com.br. Acesso em: 8 de abril. 2021
 
-AULAS ANIMADAS. Conjunto de aplicativos desenvolvidos para smartphones e tablets, que auxiliam no desenvolvimento do letramento. Disponível em: http://aulasanimadas.org.br. Acesso em: 8 de abril. 2021
+AULAS ANIMADAS. **Conjunto de aplicativos desenvolvidos para smartphones e tablets, que auxiliam no desenvolvimento do letramento**. Disponível em:http://aulasanimadas.org.br. Acesso em: 8 de abril. 2021
 
 Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
