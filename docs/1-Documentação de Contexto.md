@@ -49,17 +49,15 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo a Unesco durante o período de pandemia mais 165 países haviam fechado suas escolas, interrompendo as aulas presenciais de 1,5 bilhão de estudantes e mudando a rotina de 63 milhões de professores, alunos e pais de alunos da educação básica. Não há nenhum precedente para isso na história o que gerou grandes desafios e inúmeras dificuldade para os pais, tutores e para os alunos da educação básica.
+Conciliar todas as dificuldades da nova rotina, de adaptação ao novo modelo de estudos na modalidade a distância, além disso gerir os estudos dos filhos para que não fique comprometido o seu desempenho acadêmico, tornou se um desafio diário das famílias. O EaD ao contrário do que muitos acreditavam é uma modalidade de estudo que exige disciplina, motivação e maturidade do aluno em se dedicar o suficiente aos estudos sem a presença física dos professores e quando se trata de crianças e adolescentes a complexidade aumenta consideravelmente.
+Diante disso, a função do Projeto é criar uma abordagem com o fim de gerar engajamento e trazer dinamismo para essa nova a rotina, adotar estratégias diferentes pode ser enriquecedor e eficaz nessa jornada de grandes desafios, além disso pode ajudar a ensinar habilidades importantes às crianças, como concentração nos estudos, autonomia e criação de novos hábitos. Ao contrário das abordagens tradicionais de cobrança e imposição de rotinas, o projeto vem trazer uma nova perspectiva de tonar colaborativa a resolução desses problemas e desafios, com criatividade, onde os pais podem envolver as crianças no processo decisório da sua rotina de estudos, criando metas e recompensas ao atingi-las, tudo isso sendo monitorado por um aplicativo.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora todos que possuem crianças na família em idade escolar possam se beneficiar das soluções trazidas pelo projeto, com uma nova perspectiva colaborativa, que visa gerar engajamento, autonomia e motivação para o desempenho acadêmico dos alunos da educação básica. Estabelecemos como público-alvo deste projeto pais, tutores e alunos da educação básica.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 
