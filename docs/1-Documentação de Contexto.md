@@ -39,12 +39,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral da plataforma de EaD Gamificado, é trazer conceitos comumente presentes em jogos eletrônicos ou analógicos, como pontuação, objetivos, premiações e níveis. A fim de envolver mais o aluno, e tornar o ensino algo divertido e estimulante. Facilitando também a participação dos responsáveis no processo de aprendizagem e incentivo dos estudantes.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Podemos destacar os seguintes objetivos específicos:
+
+- Permitir ao Responsável, cadastrar objetivos e recompensas para o aluno
+- Medir o progresso do aluno e pontuar por cada objetivo atingido
+- Informar ao responsável sempre que o aluno atingir um novo objetivo
+- Permitir a criação de grupos de alunos, para rankear-los em um placar geral
+
 
 ## Justificativa
 
