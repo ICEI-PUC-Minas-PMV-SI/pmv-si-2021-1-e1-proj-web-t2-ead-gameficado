@@ -53,12 +53,7 @@ Diante disso, a função do Projeto é criar uma abordagem com o fim de gerar en
 
 ## Público-Alvo
 
-Embora todos que possuem crianças na família em idade escolar possam se beneficiar das soluções trazidas pelo projeto, com uma nova perspectiva colaborativa, que visa gerar engajamento, autonomia e motivação para o desempenho acadêmico dos alunos da educação básica. Estabelecemos como público-alvo deste projeto pais, tutores e alunos da educação básica.
+Embora todos que possuem crianças na família em idade escolar possam se beneficiar das soluções trazidas pelo projeto, com uma nova perspectiva colaborativa, que visa gerar engajamento, autonomia e motivação para o desempenho escolar dos alunos da educação básica, estabelecemos como público-alvo deste projeto pais, tutores e alunos da educação básica.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+Desta forma, foi estabelecido como público-alvo deste projeto os alunos entre 2 e 12 anos, que estão tendo acesso a educação por meio de EaD, e seus pais e/ou tutores, com idade mínima de 18 anos, sendo que, em todos os casos, como público, serão considerados apenas os indivíduos que possuem internet disponível e infraestrutura necessária para acesso ao EaD. 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
