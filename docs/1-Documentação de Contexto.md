@@ -9,16 +9,11 @@
 
 <p>Como explicitado na introdução do projeto, a questão do Ensino a Distância (EaD) permeia a sociedade desde o século XIX entretanto, de forma mais sucinta. 
 <p>Com o advento da internet de alta velocidade e a disseminação dos computadores pessoais, tablets e smartphones, foi-se consolidado um alicerce sólido para o surgimento de vários aplicativos e sites, desenvolvidos com o intuito de atender a demanda criada pelo EaD. Entretanto, ja na modalidade presencial, o método de ensino voltado a crianças possui características distintas e que exige a implementação de técnicas, estratégias e comportamentos específicos que favoreçam o aprendizado no sentido de chamar sua atenção e assim desenvolver seu processo de aprendizado. Para corroborar esse fato, FAIP (2013, p. 4) nos orienta que é necessário desenvolver o processo de construção de uma criança com atividades lúdicas, buscando por meio da diversão, atrair seu interesse e consequentemente desenvolver seu aprendizado.</p>
-<p>Na aplicação de um sistema de ensino EaD, onde a criança terá que se valer de um computador e dispositivos móveis, é necessário aplicar técnicas que garantam seu foco e interesse.
-Contemporaneamente já existem vários portais que se valem da aplicação lúdica para o desernvolvimento do aprendizado infantil. Portais como Escola Games, Ludo Educativo, Brincando com Ariê, Aulas Animadas e tantos outros, tem em comun a utilização de técnicas envolvendo a construção de personagens, muitas cores, movimentos e sons que transformam um determinado tema em jogos didáticos.
-<p>Os portais utilizados como exemplo tem como principal foco o entretenimento, sem a premissa de assimilação do conteúdo. Já em uma plataforma EaD, é necessário garantir que haja um desenvolvimento sólido e de forma gradual.
-<p>Para a aplicação do recurso EaD Gamification, é necessário solucionar três questões básicas:</p>
+<p>O EaD Gamification tem como proposta desenvolver uma aplicação que permite explorar a metodologia lúdica, mas que ao mesmo tempo, possa ser implementada em uma plataforma EaD já estruturada e funcional. Entretanto, para atingir tal aplicabilidade, é necessário buscar respostas para as três questões primordiais apresentadas a seguir.</p>
 <p>Como prender a atenção da criança?</p>
 <p>Como impulsionar e desenvolver seu aprendizado?</p>
 <p>Como integrar pais e tutores nesse processo?</p>
-<p>Esse projeto busca responder e trazer métodos práticos que possam solucionar as três questões levantadas acima.</p>
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
