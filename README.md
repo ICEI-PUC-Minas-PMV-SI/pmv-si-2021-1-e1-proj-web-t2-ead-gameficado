@@ -12,6 +12,7 @@ PROJETO DE APLICAÇÕES WEB
 - Karina Bezerra dos Santos de Siqueira
 - Letícia de Sá Almeida Costa Silva Figueredo
 - Maitê Luise Freitas de Almeida Santos
+- Thainara Pereira Dias
 
 ## Professor
 
