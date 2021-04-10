@@ -53,9 +53,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Permitir cadastro e desenvolvimento de plano de estudos inteligentes | MÉDIA |
 |RF-004| Permitir integração com o banco de dados biblioteca, para leitura de livros | MÉDIA | 
 |RF-005| Permitir interação por mensagens entre aluno, tutores e professores | MÉDIA |
-|RF-006| Emitir correções on-line dos exercícios pelos tutores e professores | MÉDIA |
+|RF-006| Emitir correções on-line dos exercícios pelos tutores e professores | ALTA |
 |RF-007| Permitir que o usuário cadastre premiações | ALTA |
-|RF-008| Emitir um relatório de tarefas por períodos pré-selecionados | MÉDIA |
+|RF-008| Emitir relatório de tarefas por períodos pré-selecionados | MÉDIA |
 
 
 ### Requisitos não Funcionais
