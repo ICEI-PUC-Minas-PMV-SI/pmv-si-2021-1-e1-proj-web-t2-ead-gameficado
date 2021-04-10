@@ -7,12 +7,7 @@
 
 ## Problema
 
-<p>Como explicitado na introdução do projeto, a questão do Ensino a Distância (EaD) permeia a sociedade desde o século XIX entretanto, de forma mais sucinta. 
-<p>Com o advento da internet de alta velocidade e a disseminação dos computadores pessoais, tablets e smartphones, foi-se consolidado um alicerce sólido para o surgimento de vários aplicativos e sites, desenvolvidos com o intuito de atender a demanda criada pelo EaD. Entretanto, ja na modalidade presencial, o método de ensino voltado a crianças possui características distintas e que exige a implementação de técnicas, estratégias e comportamentos específicos que favoreçam o aprendizado no sentido de chamar sua atenção e assim desenvolver seu processo de aprendizado. Para corroborar esse fato, SOUZA, Camila Lira de; ROIM, Talita Prado Barbosa (2013, p. 4) nos orienta que é necessário desenvolver o processo de construção de uma criança com atividades lúdicas, buscando por meio da diversão, atrair seu interesse e consequentemente desenvolver seu aprendizado.</p>
-<p>O EaD Gamification tem como proposta desenvolver uma aplicação que permite explorar a metodologia lúdica, mas que ao mesmo tempo, possa ser implementada em uma plataforma EaD já estruturada e funcional. Entretanto, para atingir tal aplicabilidade, é necessário buscar respostas para as três questões primordiais apresentadas a seguir.</p>
-<p>Como prender a atenção da criança?</p>
-<p>Como impulsionar e desenvolver seu aprendizado?</p>
-<p>Como integrar pais e tutores nesse processo?</p>
+<p>Como explicitado, o problema que se busca solucionar envolve desenvolver uma metodologia lúdica que permita ganhar e manter a atenção da criança, desse modo, favorecendo seu desenvolvimento. Paralelo a isso, é necessario buscar soluções técnicas funcinais que envolvam os pais e tutores no processo de acompanhamento, incentivo e avaliação.</p>
 
 ## Objetivos
 
