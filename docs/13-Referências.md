@@ -6,7 +6,7 @@ RIOS, Alan. **Com aulas suspensas, EaD é o desafio para pais e alunos: Nova rea
 
 PELLI, Débora; CÉSAR FREITAS VIEIRA, Flávio. **HISTÓRIA DA EDUCAÇÃO NA MODALIDADE A DISTÂNCIA**. CIET:EnPED, São Carlos, maio 2018. ISSN 2316-8722. Disponível em: <https://cietenped.ufscar.br/submissao/index.php/2018/article/view/907>. Acesso em: 08 abr. 2021.
 
-SOUZA, Camila Lira de; ROIM, Talita Prado Barbosa. REVISTA CIENTÍFICA DE CIÊNCIAS APLICADAS DA FAIP. FAIP, Faculdade de Ensino Superior do Interior Paulista. Disponível em: http://faip.revista.inf.br/imagens_arquivos/arquivos_destaque/WqI9d4IR9SSDLb6_2016-6-15-19-15-46.pdf. Acesso em: 08 abr. 2021.
+
 
 Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
