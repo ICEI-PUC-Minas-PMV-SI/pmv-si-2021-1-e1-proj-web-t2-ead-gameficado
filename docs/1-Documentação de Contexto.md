@@ -15,10 +15,11 @@ O objetivo geral da plataforma de EaD Gamificado, é trazer conceitos comumente 
 
 Podemos destacar os seguintes objetivos específicos:
 
-- Permitir ao Responsável, cadastrar objetivos e recompensas para o aluno
+- Permitir ao Responsável, cadastrar objetivos e recompensas para o aluno na plataforma online
 - Medir o progresso do aluno e pontuar por cada objetivo atingido
 - Informar ao responsável sempre que o aluno atingir um novo objetivo
 - Permitir a criação de grupos de alunos, para rankear-los em um placar geral
+- Permitir o acesso do aluno na plataforma para acompanhar o conteúdo e realizar tarefas
 
 
 ## Justificativa
