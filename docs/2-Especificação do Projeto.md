@@ -31,6 +31,111 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tbody>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Sandra Córdova</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 46 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :6 anos</td>
+    <td>Ano escolar da criança: 1º ano do Fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Ana Carolina</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 25 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :4 anos</td>
+    <td>Ano escolar da criança: Maternal 4</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Silvia Souza</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 48 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :7 anos</td>
+    <td>Ano escolar da criança: 2º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Viviane</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 44 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :9 anos</td>
+    <td>Ano escolar da criança: 4º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Sergio Daniel</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 47 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 3</td>
+  </tr>
+  <tr>
+    <td>Idade das crianças :10 e 5 anos</td>
+    <td>Ano escolar das criança: 1º e 5º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
