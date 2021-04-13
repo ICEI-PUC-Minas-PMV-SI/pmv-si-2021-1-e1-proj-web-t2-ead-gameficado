@@ -14,8 +14,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 |-----------------------------------|-------------------------------------------|
 |Idade: 39 anos                     | Quantidade de Filhos/Tutelados: 1         |
 |Idade da criança :2 anos e 5 meses | Ano escolar da criança: Maternal 2        |                                 
-|Idiomas desejados para plataforma: Português, Inglês e Espanhol               ||
-|Relação com o EaD: Sua criança tem dificuldade nas aulas EaD                  ||
+|Relação com o EaD: Sua criança tem dificuldade nas aulas de EaD               ||
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
