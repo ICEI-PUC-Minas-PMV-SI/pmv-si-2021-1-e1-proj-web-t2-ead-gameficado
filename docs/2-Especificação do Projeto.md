@@ -124,14 +124,77 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <tbody>
   <tr>
     <td>Idade: 47 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 3</td>
+    <td>Quantidade de Filhos/Tutelados: 2</td>
   </tr>
   <tr>
     <td>Idade das crianças :10 e 5 anos</td>
-    <td>Ano escolar das criança: 1º e 5º ano do fundamental</td>
+    <td>Ano escolar das crianças: 1º e 5º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Suas crianças não têm dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Érica Gomes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 39 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :5 anos</td>
+    <td>Ano escolar da criança: 2º ano do fundamental</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Lúcia Helena</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 38 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :7 anos</td>
+    <td>Ano escolar da criança: 2º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Maeve Arriel</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 43 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 2</td>
+  </tr>
+  <tr>
+    <td>Idade das crianças :9 e 5 anos</td>
+    <td>Ano escolar das crianças: 4º e 2º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Suas crianças têm dificuldade nas aulas EaD</td>
   </tr>
 </tbody>
 </table>
