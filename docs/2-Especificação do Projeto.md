@@ -32,8 +32,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Kele da Silva      | Conteúdo rápido (max. 20 min); Estimular criatividade; Plataforma em inglês e espanhol.           | Orientação educacional; Facilidade de compreensão Flexibilidade de horário.               |
+|Sandra Córdova       | Clareza; acessibilidade; dinamismo; Plataforma em inglês e espanhol.                 | Acompanhar de perto a evolução da criança. |
+|Ana Carolina |       | Facilidade; cores; interação; jogos; atividades para aguçar a inteligência e causar curiosidade e vídeos. |     | Acesso rápido e fácil, estimular a criança a estudar, interação com outros alunos, habituar a criança a tecnologia. |
+|Silva Souza |  |Interação; dinâmica; plataforma em inglês e espanhol. |     |Plataforma atrativa para prender a atenção da criança. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
