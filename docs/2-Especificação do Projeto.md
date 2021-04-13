@@ -26,7 +26,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td>Ano escolar da criança: Maternal 2</td>
   </tr>
   <tr>
-    <td colspan="2">Idade da criança :2 anos e 5 meses | Ano escolar da criança: Maternal 2</td>
+    <td colspan="2">Idade da criança :2 anos e 5 meses</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas de EaD </td>
