@@ -199,6 +199,48 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tbody>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Cristiane Corrêa</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 38 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :5 anos</td>
+    <td>Ano escolar da criança: 2º ano do Fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Pedro Augusto</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 38 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 2</td>
+  </tr>
+  <tr>
+    <td>Idade das crianças :9 e 5 anos</td>
+    <td>Ano escolar das crianças: 4º ano do Fundamental e 2º período</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Suas crianças não têm dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
