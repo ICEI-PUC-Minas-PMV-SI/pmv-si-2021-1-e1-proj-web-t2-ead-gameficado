@@ -10,7 +10,7 @@ Analisando-se o panorama atual da educação infantil por meio do Ead, nota-se u
 
 ## Problema
 
-<p>Como explicitado, o problema que se busca solucionar envolve desenvolver uma metodologia lúdica que permita ganhar e manter a atenção da criança, desse modo, favorecendo seu desenvolvimento. Paralelo a isso, é necessario buscar soluções técnicas funcinais que envolvam os pais e tutores no processo de acompanhamento, incentivo e avaliação.</p>
+<p>Como explicitado, o problema que se busca solucionar envolve desenvolver uma metodologia lúdica que permita ganhar e manter a atenção da criança e, desse modo, favorecer o seu desenvolvimento. Paralelo a isso, é necessário buscar soluções técnicas funcionais que envolvam os pais e tutores no processo de acompanhamento, incentivo e avaliação.</p>
 
 ## Objetivos
 
