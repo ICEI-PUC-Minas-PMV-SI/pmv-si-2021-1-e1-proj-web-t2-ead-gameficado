@@ -10,11 +10,29 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros a seguir, destacando que, em cada quadro, temos dois dados de persona, isso porque os usuários são os pais/tutores e suas crianças, porém, como o foco do projeto são as crianças da educação básica, que não possuem entendimento para responder ainda um questionário de persona, os tutores são responsáveis por fornecer dados das crianças (fazem isso quando preenchem o próprio perfil de persona).
 
-|                          Kele da Silva                                       ||
-|-----------------------------------|-------------------------------------------|
-|Idade: 39 anos                     | Quantidade de Filhos/Tutelados: 1         |
-|Idade da criança :2 anos e 5 meses | Ano escolar da criança: Maternal 2        |                                 
-|Relação com o EaD: Sua criança tem dificuldade nas aulas de EaD               ||
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Kele da Silva</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 39 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :2 anos e 5 meses</td>
+    <td>Ano escolar da criança: Maternal 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">Idade da criança :2 anos e 5 meses | Ano escolar da criança: Maternal 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas de EaD </td>
+  </tr>
+</tbody>
+</table>
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
