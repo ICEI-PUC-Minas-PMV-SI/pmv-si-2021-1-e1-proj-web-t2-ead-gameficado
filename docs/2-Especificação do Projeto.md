@@ -8,9 +8,14 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros a seguir, destacando que, em cada quadro, temos dois dados de persona, isso porque os usuários são os pais/tutores e suas crianças, porém, como o foco do projeto são as crianças da educação básica, que não possuem entendimento para responder ainda um questionário de persona, os tutores são responsáveis por fornecer dados das crianças (fazem isso quando preenchem o próprio perfil de persona).
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+|                          Kele da Silva Galdino Lisboa                         |
+|-------------------------------------------------------------------------------|
+|Idade: 39 anos                     | Quantidade de Filhos/Tutelados: 1         |
+|Idade da criança :2 anos e 5 meses | Ano escolar da criança: Maternal 2        |                                 
+|Idiomas desejados para plataforma: Português, Inglês e Espanhol                |
+|Relação com o EaD: Sua criança tem dificuldade nas aulas EaD                   |
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
