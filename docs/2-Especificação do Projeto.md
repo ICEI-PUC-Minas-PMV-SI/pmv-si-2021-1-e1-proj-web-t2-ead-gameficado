@@ -261,6 +261,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Sandra Córdova  |      Clareza; acessibilidade; dinamismo; Plataforma em inglês e espanhol.  | Acompanhar de perto a evolução da criança. |
 |Ana Carolina |        Facilidade; cores; interação; jogos; atividades para aguçar a inteligência e causar curiosidade e vídeos.     | Acesso rápido e fácil, estimular a criança a estudar, interação com outros alunos, habituar a criança a tecnologia. |
 |Silva Souza  |Interação; dinâmica; plataforma em inglês e espanhol.      |Plataforma atrativa para prender a atenção da criança. |
+|Viviane | Vídeos e quiz sobre a matéria daquele dia; plataforma em inglês e espanhol; Links de fácil acesso. | Complementação dos estudos. |
+|Sergio Daniel | Atuação lúdica; plataforma em multi-idiomas; | Construção de caráter e valores.|
+|Érica Gomes | Plataforma intuitiva, que comunique os erros e mostre opções de acerto; desafios. | Que agregue valores  e conhecimentos; desenvolvimento da atenção; sem exageros dos recursos audiovisual. |
+|Lúcia Helena | Que as crianças consigam acessar sozinhas; recursos visuais; | Facilitar o aprendizado. |
+|Maeve Arriel | Jogos de acordo com o conteúdo. | Acompanhar o desenvolvimento das atividades. |
+|Cristiane Corrêa | Atividades lúdicas que educam; musicas; vídeos; jogos; plataforma em inglês. | Atrair mais a atenção da criança. |
+|Pedro Córdova | Uma plataforma intuitiva, com ótima usabilidade, onde a criança possa aprender de forma lúdica e se sinta atraída a continuar usando o site; interação por áudio e vídeo; plataforma em inglês e espanhol. |  Facilitar o aprendizado de forma rápida em momentos extracurriculares. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
