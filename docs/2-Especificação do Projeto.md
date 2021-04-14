@@ -253,9 +253,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base no questionário das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|COMO        |QUERO |PARA                  |
 |--------------------|------------------------------------|----------------------------------------|
 | Kele da Silva      | Conteúdo rápido (max. 20 min); Estimular criatividade; Plataforma em inglês e espanhol.           | Orientação educacional; Facilidade de compreensão Flexibilidade de horário. |
 |Sandra Córdova  |      Clareza; acessibilidade; dinamismo; Plataforma em inglês e espanhol.  | Acompanhar de perto a evolução da criança. |
