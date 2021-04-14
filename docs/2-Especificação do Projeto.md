@@ -128,7 +128,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
   <tr>
     <td>Idade das crianças :10 e 5 anos</td>
-    <td>Ano escolar das crianças: 1º e 5º ano do fundamental</td>
+    <td>Ano escolar das crianças: 1º e 5º anos do fundamental</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Suas crianças não têm dificuldade nas aulas EaD</td>
@@ -149,7 +149,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
   <tr>
     <td>Idade da criança :5 anos</td>
-    <td>Ano escolar da criança: 2º ano do fundamental</td>
+    <td>Ano escolar da criança: Infantil 2</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
@@ -191,7 +191,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
   <tr>
     <td>Idade das crianças :9 e 5 anos</td>
-    <td>Ano escolar das crianças: 4º e 2º ano do fundamental</td>
+    <td>Ano escolar das crianças: 4º do fundamental e Infantil 2</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Suas crianças têm dificuldade nas aulas EaD</td>
@@ -212,7 +212,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
   <tr>
     <td>Idade da criança :5 anos</td>
-    <td>Ano escolar da criança: 2º ano do Fundamental</td>
+    <td>Ano escolar da criança: Infantil 2</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
@@ -233,7 +233,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
   <tr>
     <td>Idade das crianças :9 e 5 anos</td>
-    <td>Ano escolar das crianças: 4º ano do Fundamental e 2º período</td>
+    <td>Ano escolar das crianças: 4º ano do Fundamental e Infantil 2</td>
   </tr>
   <tr>
     <td colspan="2">Relação com o EaD: Suas crianças não têm dificuldade nas aulas EaD</td>
@@ -241,15 +241,152 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tbody>
 </table>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Adriana dos Santos</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 43 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :7 anos</td>
+    <td>Ano escolar da criança: 2º ano do Fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Jonatas Jeremias</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 26 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :2 anos</td>
+    <td>Ano escolar da criança: Infantil 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Rafaela</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 33 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :3 anos</td>
+    <td>Ano escolar da criança: Infantil 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Carolina</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 41 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :8 anos</td>
+    <td>Ano escolar da criança: 3º ano do Fundamental</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Barbara</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 33 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :3 anos</td>
+    <td>Ano escolar da criança: Infantil 3</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Moema de Sá</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 34 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 2</td>
+  </tr>
+  <tr>
+    <td>Idade das crianças :9 e 5 anos</td>
+    <td>Ano escolar das crianças: 4º ano do Fundamental e Infantil 5</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: A criança mais velha não tem e a mais nova tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Nádya de Sá</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Idade: 31 anos</td>
+    <td>Quantidade de Filhos/Tutelados: 1</td>
+  </tr>
+  <tr>
+    <td>Idade da criança :2 anos</td>
+    <td>Ano escolar da criança: Infantil 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+  </tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
