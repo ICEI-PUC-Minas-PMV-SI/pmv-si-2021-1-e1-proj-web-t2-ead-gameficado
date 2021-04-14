@@ -268,6 +268,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Maeve Arriel | Jogos de acordo com o conteúdo. | Acompanhar o desenvolvimento das atividades. |
 |Cristiane Corrêa | Atividades lúdicas que educam; musicas; vídeos; jogos; plataforma em inglês. | Atrair mais a atenção da criança. |
 |Pedro Córdova | Uma plataforma intuitiva, com ótima usabilidade, onde a criança possa aprender de forma lúdica e se sinta atraída a continuar usando o site; interação por áudio e vídeo; plataforma em inglês e espanhol. |  Facilitar o aprendizado de forma rápida em momentos extracurriculares. |
+|Adriana dos Santos| Que seja objetivo e claro; Boa fala e perguntas mais objetivas; plataforma em inglês; | Aprendizado e prenda a atenção da criança. |
+|Jonatas Jeremias | Fácil acesso, para a criança conseguir acessar com facilidade na plataforma; não tenha publicidade; | Tornar os estudos mais divertidos. |
+|Rafaela | Atividades de estímulos; Mensagens que alertem a existência de tarefas; fácil acesso; plataforma em inglês. | Tornar os estudos atraentes. |
+|Carolina | Educação com diversão; jogos inteligentes. | Agregar conhecimento.|
+|Barbara | Interativa, em que a criança possa executar atividades. Plataforma em inglês e espanhol. | Letramento e alfabetização. |
+|Natália Andrade | Bastantes atividades didáticas e que olhe a necessidade da criança num todo; plataforma em inglês; | Interação contínua com a criança. |
+|Moema de Sá | Atividades educativas interessantes e desafiadoras, com jogos e diferentes formas de trabalhar o conteúdo para atingir os objetivos; interação com outras crianças e brincadeiras que envolvam movimento. | Alfabetização; contagem; desenvolver iteração com os colegas.|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
