@@ -14,15 +14,15 @@ Analisando-se o panorama atual da educação infantil por meio do Ead, nota-se u
 
 ## Objetivos
 
-O objetivo geral da plataforma de EaD Gamificado, é trazer conceitos comumente presentes em jogos eletrônicos ou analógicos, como pontuação, objetivos, premiações e níveis. A fim de envolver mais o aluno, e tornar o ensino algo divertido e estimulante. Facilitando também a participação dos responsáveis no processo de aprendizagem e incentivo dos estudantes.
+O objetivo geral da plataforma de EaD Gameficado, é trazer conceitos comumente presentes em jogos eletrônicos ou analógicos, como pontuação, objetivos, premiações e níveis, a fim de envolver mais o aluno e tornar o ensino algo divertido e estimulante, facilitando também a participação dos responsáveis no processo de aprendizagem e incentivo dos estudantes.
 
 Podemos destacar os seguintes objetivos específicos:
 
-- Permitir ao Responsável, cadastrar objetivos e recompensas para o aluno na plataforma online
-- Medir o progresso do aluno e pontuar por cada objetivo atingido
-- Informar ao responsável sempre que o aluno atingir um novo objetivo
-- Permitir a criação de grupos de alunos, para rankear-los em um placar geral
-- Permitir o acesso do aluno na plataforma para acompanhar o conteúdo e realizar tarefas
+- Permitir ao Responsável cadastrar objetivos e recompensas para o aluno na plataforma online;
+- Medir o progresso do aluno e pontuá-lo por cada objetivo atingido;
+- Informar ao responsável sempre que o aluno atingir um novo objetivo;
+- Permitir a criação de grupos de alunos, para ranqueá-los em um placar geral;
+- Permitir o acesso do aluno na plataforma para acompanhar o conteúdo e realizar tarefas.
 
 
 ## Justificativa
