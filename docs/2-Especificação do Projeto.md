@@ -310,7 +310,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo | ALTA |
 |RNF-002| A plataforma dever ser compatível com Android e iOS | ALTA |
-|RNF-003| A plataforma deve ser compatível com os três principais sistema operacionais, Windows, Mac OS e Linux | MÉDIA |
+|RNF-003| A plataforma deve ser compatível com os três principais sistemas operacionais, Windows, Mac OS e Linux | MÉDIA |
 |RNF-004| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | ALTA |
 |RNF-005| Deve processar requisições do usuário em no máximo 3s | BAIXA | 
 
