@@ -386,28 +386,32 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ## Histórias de Usuários
 
-Com base no questionário das personas forma identificadas as seguintes histórias de usuários:
+Com base no questionário das personas foram identificadas as histórias de usuários listadas a seguir.
+
+|Autores |Premissas
+|---------|----------|
+|Administrador, Resposável, Criança |Para executar qualquer ação no sistema o usuário deve está logado, onde terá acesso às funcionalidades associadas ao seu perfil.|
+
+
+**HU-01**
 
 |COMO        |QUERO |PARA                  |
 |--------------------|------------------------------------|----------------------------------------|
-| Kele da Silva      | Conteúdo rápido (max. 20 min); Estimular criatividade; Plataforma em inglês e espanhol.           | Orientação educacional; Facilidade de compreensão Flexibilidade de horário. |
-|Sandra Córdova  |      Clareza; acessibilidade; dinamismo; Plataforma em inglês e espanhol.  | Acompanhar de perto a evolução da criança. |
-|Ana Carolina |        Facilidade; cores; interação; jogos; atividades para aguçar a inteligência e causar curiosidade e vídeos.     | Acesso rápido e fácil, estimular a criança a estudar, interação com outros alunos, habituar a criança a tecnologia. |
-|Silva Souza  |Interação; dinâmica; plataforma em inglês e espanhol.      |Plataforma atrativa para prender a atenção da criança. |
-|Viviane | Vídeos e quiz sobre a matéria daquele dia; plataforma em inglês e espanhol; Links de fácil acesso. | Complementação dos estudos. |
-|Sergio Daniel | Atuação lúdica; plataforma em multi-idiomas; | Construção de caráter e valores.|
-|Érica Gomes | Plataforma intuitiva, que comunique os erros e mostre opções de acerto; desafios. | Que agregue valores  e conhecimentos; desenvolvimento da atenção; sem exageros dos recursos audiovisual. |
-|Lúcia Helena | Que as crianças consigam acessar sozinhas; recursos visuais; | Facilitar o aprendizado. |
-|Maeve Arriel | Jogos de acordo com o conteúdo. | Acompanhar o desenvolvimento das atividades. |
-|Cristiane Corrêa | Atividades lúdicas que educam; musicas; vídeos; jogos; plataforma em inglês. | Atrair mais a atenção da criança. |
-|Pedro Córdova | Uma plataforma intuitiva, com ótima usabilidade, onde a criança possa aprender de forma lúdica e se sinta atraída a continuar usando o site; interação por áudio e vídeo; plataforma em inglês e espanhol. |  Facilitar o aprendizado de forma rápida em momentos extracurriculares. |
-|Adriana dos Santos| Que seja objetivo e claro; Boa fala e perguntas mais objetivas; plataforma em inglês; | Aprendizado e prenda a atenção da criança. |
-|Jonatas Jeremias | Fácil acesso, para a criança conseguir acessar com facilidade na plataforma; não tenha publicidade; | Tornar os estudos mais divertidos. |
-|Rafaela | Atividades de estímulos; Mensagens que alertem a existência de tarefas; fácil acesso; plataforma em inglês. | Tornar os estudos atraentes. |
-|Carolina | Educação com diversão; jogos inteligentes. | Agregar conhecimento.|
-|Barbara | Interativa, em que a criança possa executar atividades. Plataforma em inglês e espanhol. | Letramento e alfabetização. |
-|Natália Andrade | Bastantes atividades didáticas e que olhe a necessidade da criança num todo; plataforma em inglês; | Interação contínua com a criança. |
-|Moema de Sá | Atividades educativas interessantes e desafiadoras, com jogos e diferentes formas de trabalhar o conteúdo para atingir os objetivos; interação com outras crianças e brincadeiras que envolvam movimento. | Alfabetização; contagem; desenvolver iteração com os colegas.|
+| Usuário      | Realizar o Cadrastro como Pai/Responsável           | Acessar a plataforma. |
+
+
+**HU-02**
+
+|COMO |QUERO |PARA|
+|-----|------|------|
+|Usuário | Realizar o Cadrastro como Criança| Acessar a plataforma|
+
+
+**HU-03**
+|COMO |QUERO |PARA|
+|----|-----|-----|
+|Pai/Responsável | Vincular o cadastro da Criança-1 ao cadrastro do Pai/Responsável-1| Cadastrar atividades para a criança vinculada|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
