@@ -412,6 +412,16 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |----|-----|-----|
 |Pai/Responsável | Vincular o cadastro da Criança-1 ao cadrastro do Pai/Responsável-1| Cadastrar atividades para a criança vinculada|
 
+**HU-04**
+|COMO |QUERO | PARA|
+|-----|------|------|
+|Pai/Responsável| Cadastrar atividades| A criança vinculada ao cadastro realiza-lá|
+
+**HU-05**
+|COMO| QUERO | PARA|
+|----|------|------|
+|Pai/Responsável| Acompanhar o desenvolvimento das atividades cadastradas| Saber se tem muitas demandas ou poucas|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
