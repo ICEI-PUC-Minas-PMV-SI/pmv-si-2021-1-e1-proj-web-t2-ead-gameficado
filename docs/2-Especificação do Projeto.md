@@ -441,14 +441,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Clareza e facilidade de uso | ALTA | 
-|RF-002| Conteúdo desenvolvido em formato lúdico, com dinâmica, sons e imagens,  | ALTA |
-|RF-003| Diversidade de conteúdo | MÉDIA |
-|RF-004| Duração das atividades | BAIXA |
-|RF-005| Flexibilização de horários e plano de ensino | BAIXA |
-|RF-006| Material complementar | ALTA |
-|RF-007| Permitir estímulos e premiações | MÉDIA |
-|RF-008| Utilização em outros idiomas | ALTA |
+|RF-001| O site deve permitir o cadastro de tarefas pelos professores e tutores | ALTA | 
+|RF-002| O site deve permitir a avaliação das tarefas e consequentemente a atribuição de pontuações | ALTA |
+|RF-003| Deve apresentar a modalidade (premiações), onde a criança será incentivada a cumprir uma determinada tarefa dentro do prazo e com isso, receber uma gratificação previamente cadastrada. | ALTA |
+|RF-004| Os tutores devem ser capazes de criar um cronograma de estudos para direcionar a criança e com isso, ensina-la a administrar e distribuir o tempo entre as tarefas atribuídas  | MÉDIA |
+|RF-005| O site deve permitir troca de mensagens (chat - real time) entre aluno, professor e tutor | BAIXA |
+|RF-006| O site deve permitir registrar comentários para fomentar debates nos tópicos apresentados em cada unidade | MÉDIA |
+|RF-007| O site deve permitir fazer pesquisas de palavras nos conteúdos cadastrados | BAIXA |
+
+
 
 
 ### Requisitos não Funcionais
@@ -456,10 +457,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo | ALTA |
-|RNF-002| A plataforma dever ser compatível com Android e iOS | ALTA |
-|RNF-003| A plataforma deve ser compatível com os três principais sistemas operacionais, Windows, Mac OS e Linux | MÉDIA |
-|RNF-004| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | ALTA |
-|RNF-005| Deve processar requisições do usuário em no máximo 3s | BAIXA | 
+|RNF-002| O site deve ser multilíngue, contemplando os idiomas (PT-BR), inglês (EN-US) e Espanhol (ES) | MÉDIA |
+|RNF-003| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | ALTA |
+|RNF-004| O site deve ser claro e objetivo, onde a criança tenha facilidade na sua utilização | BAIXA |
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
