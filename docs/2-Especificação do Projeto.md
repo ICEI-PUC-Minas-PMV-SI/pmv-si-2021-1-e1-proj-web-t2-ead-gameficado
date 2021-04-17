@@ -458,8 +458,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo | ALTA |
 |RNF-002| O site deve ser multilíngue, contemplando os idiomas (PT-BR), inglês (EN-US) e Espanhol (ES) | MÉDIA |
-|RNF-003| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | ALTA |
-|RNF-004| O site deve ser claro e objetivo, onde a criança tenha facilidade na sua utilização | BAIXA |
+|RNF-003| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | MÉDIA |
+|RNF-004| O site deve ser claro e objetivo, onde a criança tenha facilidade na sua utilização | ALTA |
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
