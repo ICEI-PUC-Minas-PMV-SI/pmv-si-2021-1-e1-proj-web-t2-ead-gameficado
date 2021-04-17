@@ -4,7 +4,7 @@ Através de pesquisas online, formulários e entrevistas com pais de crianças e
 
 ## Personas
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros a seguir, destacando que, em cada quadro, temos dois dados de persona, isso porque os usuários são os pais/tutores e suas crianças, porém, como o foco do projeto são as crianças da educação básica, que não possuem entendimento para responder ainda um questionário de persona, os tutores são responsáveis por fornecer dados das crianças (fazem isso quando preenchem o próprio perfil de persona).
+As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros a seguir.
 
 <table>
 <thead>
