@@ -281,7 +281,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir o cadastro de tarefas pelos professores e tutores | ALTA | 
+|RF-001| O site deve permitir o cadastro de tarefas pelos tutores | ALTA | 
 |RF-002| O site deve permitir a avaliação das tarefas e consequentemente a atribuição de pontuações | ALTA |
 |RF-003| O site deve permitir o cadastramento de premiações, conforme regras preestabelecidas | ALTA |
 |RF-004| O site deve permitir o cadastramento do cronograma de estudos | MÉDIA |
