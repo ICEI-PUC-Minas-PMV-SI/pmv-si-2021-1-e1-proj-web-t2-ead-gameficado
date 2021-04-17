@@ -283,10 +283,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O site deve permitir o cadastro de tarefas pelos professores e tutores | ALTA | 
 |RF-002| O site deve permitir a avaliação das tarefas e consequentemente a atribuição de pontuações | ALTA |
-|RF-003| Deve apresentar a modalidade (premiações), onde a criança será incentivada a cumprir uma determinada tarefa dentro do prazo e com isso, receber uma gratificação previamente cadastrada. | ALTA |
-|RF-004| Os tutores devem ser capazes de criar um cronograma de estudos para direcionar a criança e com isso, ensina-la a administrar e distribuir o tempo entre as tarefas atribuídas  | MÉDIA |
-|RF-005| O site deve permitir troca de mensagens (chat - real time) entre aluno, professor e tutor | BAIXA |
-|RF-006| O site deve permitir registrar comentários para fomentar debates nos tópicos apresentados em cada unidade | MÉDIA |
+|RF-003| O site deve permitir o cadastramento de premiações, conforme regras preestabelecidas | ALTA |
+|RF-004| O site deve permitir o cadastramento do cronograma de estudos | MÉDIA |
+|RF-005| O site deve permitir troca de mensagens (chat - real time) entre aluno e tutor | BAIXA |
+|RF-006| O site deve permitir registrar comentários nos tópicos apresentados em cada unidade | MÉDIA |
 |RF-007| O site deve permitir fazer pesquisas de palavras nos conteúdos cadastrados | BAIXA |
 
 
@@ -299,7 +299,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo | ALTA |
 |RNF-002| O site deve ser multilíngue, contemplando os idiomas (PT-BR), inglês (EN-US) e Espanhol (ES) | MÉDIA |
 |RNF-003| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | MÉDIA |
-|RNF-004| O site deve ser claro e objetivo, onde a criança tenha facilidade na sua utilização | ALTA |
+|RNF-004| O site deve ser claro e objetivo, onde os usuários tenham facilidade na sua utilização | ALTA |
 |RNF-005| O site deve exibir os resultados de cada avaliação e o resultado final | ALTA |
 
 
