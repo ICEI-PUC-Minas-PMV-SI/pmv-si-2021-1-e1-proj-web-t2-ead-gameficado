@@ -9,20 +9,45 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Kele da Silva</th>
+    <th colspan="2">Pai/Responsável 1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Idade: 39 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Idade</td>
+    <td>40 anos</td>
   </tr>
   <tr>
-    <td>Idade da criança :2 anos e 5 meses</td>
-    <td>Ano escolar da criança: Maternal 2</td>
+    <td>Responsável por quantas crianças/adolescentes</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+    <td>Idade das crianças/adolescentes</td>
+    <td>5 e 9 anos</td>
+  </tr>
+  <tr>
+    <td>Formação</td>
+    <td>Pedagogia</td>
+  </tr>
+  <tr>
+    <td>Trabalho</td>
+    <td>Concursado há 10 anos na área da educação</td>
+  </tr>
+  <tr>
+    <td>Renda mensal bruta</td>
+    <td>R$ 6.000,00</td>
+  </tr>
+  <tr>
+    <td>Hobbies</td>
+    <td>Gosta de viajar com a família e de escrever</td>
+  </tr>
+  <tr>
+    <td>Sonhos</td>
+    <td>Ter uma casa de férias no campo</td>
+  </tr>
+  <tr>
+    <td>Desejos para a educação dos filhos</td>
+    <td>Procura meios de ajudar os filhos a enfrentarem a pandemia sem que fiquem prejudicados em suas atividades escolares</td>
   </tr>
 </tbody>
 </table>
@@ -30,20 +55,45 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Sandra Córdova</th>
+    <th colspan="2">Pai/Responsável 2</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Idade: 46 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Idade</td>
+    <td>40 anos</td>
   </tr>
   <tr>
-    <td>Idade da criança :6 anos</td>
-    <td>Ano escolar da criança: 1º ano do Fundamental</td>
+    <td>Responsável por quantas crianças/adolescentes</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+    <td>Idade da criança/adolescente</td>
+    <td>6 anos</td>
+  </tr>
+  <tr>
+    <td>Formação</td>
+    <td>Engenharia Civil</td>
+  </tr>
+  <tr>
+    <td>Trabalho</td>
+    <td>Engenheiro Civil comissionado há dois 2 anos em empresa estatal</td>
+  </tr>
+  <tr>
+    <td>Renda mensal bruta</td>
+    <td>R$ 8.000,00</td>
+  </tr>
+  <tr>
+    <td>Hobbies</td>
+    <td>Gosta de cantar e fazer degustações</td>
+  </tr>
+  <tr>
+    <td>Sonhos</td>
+    <td>Conseguir se dedicar totalmente a área artística</td>
+  </tr>
+  <tr>
+    <td>Desejos para a educação do filho/tutelado</td>
+    <td>Quer conseguir reduzir a dificuldade do seu filho em concentrar-se nas tarefas escolares diárias</td>
   </tr>
 </tbody>
 </table>
@@ -51,20 +101,41 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Ana Carolina</th>
+    <th colspan="2">Criança 1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Idade: 25 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Idade</td>
+    <td>4 anos</td>
   </tr>
   <tr>
-    <td>Idade da criança :4 anos</td>
-    <td>Ano escolar da criança: Maternal 4</td>
+    <td>Possui quantos irmãos</td>
+    <td>0</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
+    <td>Idade do pai/responsável:</td>
+    <td>25 anos</td>
+  </tr>
+  <tr>
+    <td>Ano escolar</td>
+    <td>Maternal 4</td>
+  </tr>
+  <tr>
+    <td>Rendimento escolar</td>
+    <td>Dentro da média</td>
+  </tr>
+  <tr>
+    <td>Hobbies</td>
+    <td>Gosta de jogar no celular, ver vídeos e de brincar em parques com amigos</td>
+  </tr>
+  <tr>
+    <td>Sonhos</td>
+    <td>Comer chocolate todos os dias</td>
+  </tr>
+  <tr>
+    <td>Desejo para os estudos</td>
+    <td>Quer brincar e quer que estudar seja só brincadeira</td>
   </tr>
 </tbody>
 </table>
@@ -72,20 +143,41 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Silvia Souza</th>
+    <th colspan="2">Criança 2</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Idade: 48 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Idade</td>
+    <td>7 anos</td>
   </tr>
   <tr>
-    <td>Idade da criança :7 anos</td>
-    <td>Ano escolar da criança: 2º ano do fundamental</td>
+    <td>Possui quantos irmãos</td>
+    <td>0</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+    <td>Idade do pai/responsável:</td>
+    <td>43 anos</td>
+  </tr>
+  <tr>
+    <td>Ano escolar</td>
+    <td>2º ano do fundamental</td>
+  </tr>
+  <tr>
+    <td>Rendimento escolar</td>
+    <td>Acima da média</td>
+  </tr>
+  <tr>
+    <td>Hobbies</td>
+    <td>Gosta de desenhar, pintar e de brincar de pique-esconde</td>
+  </tr>
+  <tr>
+    <td>Sonhos</td>
+    <td>Quer muito ter um cachorro</td>
+  </tr>
+  <tr>
+    <td>Desejo para os estudos</td>
+    <td>Quer estudar e brincar, sem ter que fazer coisas chatas o tempo todo na escola</td>
   </tr>
 </tbody>
 </table>
@@ -93,293 +185,41 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Viviane</th>
+    <th colspan="2">Adolescente 1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Idade: 44 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Idade</td>
+    <td>14 anos</td>
   </tr>
   <tr>
-    <td>Idade da criança :9 anos</td>
-    <td>Ano escolar da criança: 4º ano do fundamental</td>
+    <td>Possui quantos irmãos</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Sergio Daniel</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 47 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 2</td>
+    <td>Idade do pai/responsável:</td>
+    <td>47 anos</td>
   </tr>
   <tr>
-    <td>Idade das crianças :10 e 5 anos</td>
-    <td>Ano escolar das crianças: 1º e 5º anos do fundamental</td>
+    <td>Ano escolar</td>
+    <td>8ª ano do fundamental</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Suas crianças não têm dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Érica Gomes</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 39 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Rendimento escolar</td>
+    <td>Dentro da média</td>
   </tr>
   <tr>
-    <td>Idade da criança :5 anos</td>
-    <td>Ano escolar da criança: Infantil 2</td>
+    <td>Hobbies</td>
+    <td>Gosta de andar de patins, fazer capoeira, jogar videogame e desenhar mangás</td>
   </tr>
   <tr>
-    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Lúcia Helena</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 38 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
+    <td>Sonhos</td>
+    <td>Quer ser um grande capoeirista e virar um mangaká</td>
   </tr>
   <tr>
-    <td>Idade da criança :7 anos</td>
-    <td>Ano escolar da criança: 2º ano do fundamental</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Maeve Arriel</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 43 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 2</td>
-  </tr>
-  <tr>
-    <td>Idade das crianças :9 e 5 anos</td>
-    <td>Ano escolar das crianças: 4º do fundamental e Infantil 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Suas crianças têm dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Cristiane Corrêa</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 38 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :5 anos</td>
-    <td>Ano escolar da criança: Infantil 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Pedro Augusto</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 38 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 2</td>
-  </tr>
-  <tr>
-    <td>Idade das crianças :9 e 5 anos</td>
-    <td>Ano escolar das crianças: 4º ano do Fundamental e Infantil 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Suas crianças não têm dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Adriana dos Santos</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 43 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :7 anos</td>
-    <td>Ano escolar da criança: 2º ano do Fundamental</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Jonatas Jeremias</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 26 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :2 anos</td>
-    <td>Ano escolar da criança: Infantil 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Rafaela</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 33 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :3 anos</td>
-    <td>Ano escolar da criança: Infantil 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Carolina</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 41 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :8 anos</td>
-    <td>Ano escolar da criança: 3º ano do Fundamental</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança não tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Barbara</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 33 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :3 anos</td>
-    <td>Ano escolar da criança: Infantil 3</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Moema de Sá</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 34 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 2</td>
-  </tr>
-  <tr>
-    <td>Idade das crianças :9 e 5 anos</td>
-    <td>Ano escolar das crianças: 4º ano do Fundamental e Infantil 5</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: A criança mais velha não tem e a mais nova tem dificuldade nas aulas EaD</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Nádya de Sá</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Idade: 31 anos</td>
-    <td>Quantidade de Filhos/Tutelados: 1</td>
-  </tr>
-  <tr>
-    <td>Idade da criança :2 anos</td>
-    <td>Ano escolar da criança: Infantil 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Relação com o EaD: Sua criança tem dificuldade nas aulas EaD</td>
+    <td>Desejo para os estudos</td>
+    <td>Quer perceber a utilidade do que estuda no seu dia a dia e gostaria de interagir mais com pessoas da mesma idade durante os estudos</td>
   </tr>
 </tbody>
 </table>
