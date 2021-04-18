@@ -281,13 +281,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir o cadastro de tarefas pelos tutores | ALTA | 
-|RF-002| O site deve permitir a avaliação das tarefas e consequentemente a atribuição de pontuações | ALTA |
+|RF-001| O site deve permitir o cadastramento de tarefas pelos tutores | ALTA | 
+|RF-002| O site deve permitir a avaliação das tarefas e atribuição da pontuação atingida | ALTA |
 |RF-003| O site deve permitir o cadastramento de premiações, conforme regras preestabelecidas | ALTA |
 |RF-004| O site deve permitir o cadastramento do cronograma de estudos | MÉDIA |
-|RF-005| O site deve permitir troca de mensagens (chat - real time) entre aluno e tutor | BAIXA |
-|RF-006| O site deve permitir registrar comentários nos tópicos apresentados em cada unidade | MÉDIA |
-|RF-007| O site deve permitir fazer pesquisas de palavras nos conteúdos cadastrados | BAIXA |
+|RF-005| O site deve permitir feedbacks de objetivos alcançados | MÉDIA |
+|RF-006| O site deve permitir a criação de grupos e a formação de ranking  | MÉDIA |
+|RF-007| O site deve permitir troca de mensagens (chat - real time) entre aluno e tutor | BAIXA |
 
 
 
@@ -296,11 +296,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | ALTA |
-|RNF-002| O site deve ser multilíngue, contemplando os idiomas (PT-BR), inglês (EN-US) e Espanhol (ES) | MÉDIA |
-|RNF-003| O ambiente deve ser desenvolvido com a utilização de cores, sons e movimento | MÉDIA |
-|RNF-004| O site deve ser claro e objetivo, onde os usuários tenham facilidade na sua utilização | ALTA |
-|RNF-005| O site deve exibir os resultados de cada avaliação e o resultado final | ALTA |
+|RNF-001| O site deve ser responsivo e mobile friendly | ALTA |
+|RNF-002| O site deve ser claro e objetivo, de fácil navegação | ALTA |
+|RNF-003| O site deve ter o conteúdo organizado em menus de fácil acesso | MÉDIA |
+|RNF-004| O site deve permitir o acompanhamento do resultado individual das atividades e o resultado total | MÉDIA |
+|RNF-006| O site deve ter carregamento rápido e processar requisições do usuário em no máximo 3s | BAIXA |
+
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
