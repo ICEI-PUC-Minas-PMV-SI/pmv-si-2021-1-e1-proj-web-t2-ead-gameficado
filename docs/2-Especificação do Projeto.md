@@ -228,47 +228,66 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 Com base no questionário das personas foram identificadas as histórias de usuários listadas a seguir.
 
-|Autores |Premissas
+|Regra de Negócio|Descrição|
 |---------|----------|
-|Administrador, Resposável, Criança |Para executar qualquer ação no sistema o usuário deve está logado, onde terá acesso às funcionalidades associadas ao seu perfil.|
+|01|A plataforma possuirá os seguintes perfis de acesso: Administrador, Tutor, Criança.|
+|02|Para executar qualquer ação no sistema a pessoa, usuário do sistema, deve estar logada, onde terá acesso às funcionalidades associadas ao seu perfil.|
+|03|O usuário com perfil de Administrador poderá executar qualquer operação no sistema.|
+|04|Após uma pessoa realizar o cadastro no sistema, o mesmo deverá ser ativado pelo administrador.|
+|05|Ao realizar o cadastro na plataforma, o sistema não deve permitir que uma pessoa selecione o perfil de Tutor se a idade for inferior à 18 anos.|
 
 
 **HU-01**
 
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
-|01| Administrador      | Cadastrar usuário          | Acessar a plataforma |
-|02| Administrador      | Alterar usuário          | Alterar os dados |
-|03| Administrador      | Excluir usuário          | Excluir logicamente da plataforma |
-|04| Administrador      | Consultar usuários          | Listar os usuários cadastrados |
+|01| Usuário     | Cadastrar pessoa          | Para ter acesso a plataforma |
+|02| Usuário      | Alterar pessoa          | Para alterar os dados cadastrados na plataforma|
+|03| Usuário      | Excluir pessoa          | Excluir logicamente da plataforma a pessoa cadastrada |
+|04| Usuário      | Consultar pessoas          | Listar as pessoas cadastradas na plataforma |
 
 
 **HU-02**
 
-|COMO |QUERO |PARA|
-|-----|------|------|
-|Usuário | Realizar o Cadrastro como Criança| Acessar a plataforma|
-
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01| Administrador      | Cadastrar perfil          | Definir os perfis de acesso à plataforma|
+|02| Administrador      | Alterar perfil          | Alterar os dados do peril cadastrado |
+|03| Administrador      | Excluir perfil          | Excluir logicamente da plataforma o perfil cadastrado |
+|04| Administrador      | Consultar Perfis         | Listar os perfis cadastrados na plataforma |
 
 **HU-03**
-|COMO |QUERO |PARA|
-|----|-----|-----|
-|Pai/Responsável | Vincular o cadastro da Criança-1 ao cadrastro do Pai/Responsável-1| Cadastrar atividades para a criança vinculada|
+
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01| Administrador      | Ativar/Desativar o cadastro de uma pessoa          | Para ter acesso à plataforma|
+|02| Admmistrador| Editar o perfil de uma pessoa| Para associar o perfil correto à pessoa que está utilizando a plataforma|
+
 
 **HU-04**
-|COMO |QUERO | PARA|
-|-----|------|------|
-|Pai/Responsável| Cadastrar atividades| A criança vinculada ao cadastro realiza-lá|
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Vincular/Desvincular o cadastro da criança ao meu perfil de tutor| Associar criança ao tutor|
+|02|Tutor| Consultar as pessoas vinculadas ao meu perfil| Verificar quem está associado ao meu perfil|
 
 **HU-05**
-|COMO| QUERO | PARA|
-|----|------|------|
-|Pai/Responsável| Acompanhar o desenvolvimento das atividades cadastradas| Saber se tem muitas demandas ou poucas|
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Cadastrar atividades| Para que as atividades pedagógicas sejam inseridas na plataforma|
+|02|Tutor| Alterar atividades| Para que as atividades pedagógicas sejam alteradas na plataforma|
+|03|Tutor| Excluir atividades| Para que as atividades pedagógicas sejam excluídas logicamente da plataforma|
+|04|Tutor| Listar atividades| Listar as atividades pedagógicas cadastradas|
 
 **HU-06**
-|COMO| QUERO | PARA|
-|----|-------|-------|
-|Pai/Responsável| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e da um feedback sobre a atividade executada|
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Visualizar o desenvolvimento das atividades executadas/não executadas| Acompanhar o desenvolvimento da criança|
+|02|Tutor| Avaliar a atividade realizada com um emoticon (feliz ou triste)| Motivar a criança na realização de atividades|
+
+**HU-07**
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01||Pai/Responsável| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e da um feedback sobre a atividade executada|
 
 **HU-07**
 |COMO| QUERO| PARA|
