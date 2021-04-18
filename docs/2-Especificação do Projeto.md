@@ -9,7 +9,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Pai/Responsável 1</th>
+    <th colspan="2">Tutor 1</th>
   </tr>
 </thead>
 <tbody>
@@ -55,7 +55,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Pai/Responsável 2</th>
+    <th colspan="2">Tutor 2</th>
   </tr>
 </thead>
 <tbody>
@@ -185,7 +185,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
 <thead>
   <tr>
-    <th colspan="2">Adolescente 1</th>
+    <th colspan="2">Criança 3</th>
   </tr>
 </thead>
 <tbody>
