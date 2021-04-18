@@ -300,7 +300,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O site deve ser claro e objetivo, de fácil navegação | ALTA |
 |RNF-003| O site deve ter o conteúdo organizado em menus de fácil acesso | MÉDIA |
 |RNF-004| O site deve permitir o acompanhamento do resultado individual das atividades e o resultado total | MÉDIA |
-|RNF-006| O site deve ter carregamento rápido e processar requisições do usuário em no máximo 3s | BAIXA |
+|RNF-005| O site deve ter carregamento rápido e processar requisições do usuário em no máximo 3s | BAIXA |
 
 
 
