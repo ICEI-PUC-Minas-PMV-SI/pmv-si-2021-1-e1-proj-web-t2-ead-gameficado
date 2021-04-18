@@ -237,7 +237,7 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 
 |COMO        |QUERO |PARA                  |
 |--------------------|------------------------------------|----------------------------------------|
-| Usuário      | Realizar o Cadrastro como Pai/Responsável           | Acessar a plataforma. |
+| Usuário      | Realizar o Cadrastro como Pai/Responsável           | Acessar a plataforma |
 
 
 **HU-02**
@@ -279,10 +279,12 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 
 **HU-09**
 |COMO| QUERO| PARA|
+|-----|------|-----|
 |Criança| Acompanhar o Ranck| Visualizar a pontuação|
 
 **HU-10**
 |COMO| QUERO| PARA|
+|-----|------|----|
 |Criança| Receber uma mensagem ao termino de cada atividade| Incentivar e confirmação da tarefa executada|
 
 
