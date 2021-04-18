@@ -235,9 +235,12 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 
 **HU-01**
 
-|COMO        |QUERO |PARA                  |
-|--------------------|------------------------------------|----------------------------------------|
-| Usuário      | Realizar o Cadrastro como Pai/Responsável           | Acessar a plataforma |
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01| Administrador      | Cadastrar usuário          | Acessar a plataforma |
+|02| Administrador      | Alterar usuário          | Alterar os dados |
+|03| Administrador      | Excluir usuário          | Excluir logicamente da plataforma |
+|04| Administrador      | Consultar usuários          | Listar os usuários cadastrados |
 
 
 **HU-02**
