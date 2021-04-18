@@ -287,7 +287,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| O site deve permitir o cadastramento do cronograma de estudos | MÉDIA |
 |RF-005| O site deve permitir feedbacks de objetivos alcançados | MÉDIA |
 |RF-006| O site deve permitir a criação de grupos e a formação de ranking  | MÉDIA |
-|RF-007| O site deve permitir troca de mensagens (chat - real time) entre aluno e tutor | BAIXA |
+|RF-007| O site deve permitir o acompanhamento do resultado individual das atividades e o resultado total | MÉDIA |
+|RF-008| O site deve permitir troca de mensagens (chat - real time) entre aluno e tutor | BAIXA |
 
 
 
@@ -299,8 +300,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O site deve ser responsivo e mobile friendly | ALTA |
 |RNF-002| O site deve ser claro e objetivo, de fácil navegação | ALTA |
 |RNF-003| O site deve ter o conteúdo organizado em menus de fácil acesso | MÉDIA |
-|RNF-004| O site deve permitir o acompanhamento do resultado individual das atividades e o resultado total | MÉDIA |
-|RNF-005| O site deve ter carregamento rápido e processar requisições do usuário em no máximo 3s | BAIXA |
+|RNF-004| O site deve ter carregamento rápido e processar requisições do usuário em no máximo 3s | BAIXA |
 
 
 
