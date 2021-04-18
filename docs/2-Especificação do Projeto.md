@@ -262,6 +262,29 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |----|------|------|
 |Pai/Responsável| Acompanhar o desenvolvimento das atividades cadastradas| Saber se tem muitas demandas ou poucas|
 
+**HU-06**
+|COMO| QUERO | PARA|
+|----|-------|-------|
+|Pai/Responsável| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e da um feedback sobre a atividade executada|
+
+**HU-07**
+|COMO| QUERO| PARA|
+|-----|-----|------|
+|Ciança| Enviar mensagens para o Responsável vinculado| Tirar uma dúvida|
+
+**HU-08**
+|COMO| QUERO| PARA|
+|-----|------|-----|
+|Criança| Realizar as atividades cadastradas| Aprendizado|
+
+**HU-09**
+|COMO| QUERO| PARA|
+|Criança| Acompanhar o Ranck| Visualizar a pontuação|
+
+**HU-10**
+|COMO| QUERO| PARA|
+|Criança| Receber uma mensagem ao termino de cada atividade| Incentivar e confirmação da tarefa executada|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
