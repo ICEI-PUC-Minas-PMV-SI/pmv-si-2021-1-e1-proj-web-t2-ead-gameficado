@@ -224,9 +224,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tbody>
 </table>
 
-## Histórias de Usuários
+## Regras de Negócio
 
-Com base no questionário das personas foram identificadas as histórias de usuários listadas a seguir.
+Com base nas necessidades da plataforma, foram identificadas as seguintes regras de negócio:
 
 |Regra de Negócio|Descrição|
 |---------|----------|
@@ -237,6 +237,9 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |05|Ao realizar o cadastro na plataforma, o sistema não deve permitir que uma pessoa selecione o perfil de Tutor se a idade for inferior à 18 anos.|
 |06|Somente é permitido uma criança editar uma atividade se a esta ainda não tiver sido enviada.|
 
+## Histórias de Usuários
+
+Com base no questionário das personas foram identificadas as histórias de usuários listadas a seguir.
 
 **HU-01**
 
