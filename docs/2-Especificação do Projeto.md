@@ -235,6 +235,7 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |03|O usuário com perfil de Administrador poderá executar qualquer operação no sistema.|
 |04|Após uma pessoa realizar o cadastro no sistema, o mesmo deverá ser ativado pelo administrador.|
 |05|Ao realizar o cadastro na plataforma, o sistema não deve permitir que uma pessoa selecione o perfil de Tutor se a idade for inferior à 18 anos.|
+|06|Somente é permitido uma criança editar uma atividade se a esta ainda não tiver sido enviada.|
 
 
 **HU-01**
@@ -261,7 +262,7 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
 |01| Administrador      | Ativar/Desativar o cadastro de uma pessoa          | Para ter acesso à plataforma|
-|02| Admmistrador| Editar o perfil de uma pessoa| Para associar o perfil correto à pessoa que está utilizando a plataforma|
+|02| Admistrador| Editar o perfil de uma pessoa| Para associar o perfil correto à pessoa que está utilizando a plataforma|
 
 
 **HU-04**
@@ -287,28 +288,26 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 **HU-07**
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
-|01||Pai/Responsável| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e da um feedback sobre a atividade executada|
-
-**HU-07**
-|COMO| QUERO| PARA|
-|-----|-----|------|
-|Ciança| Enviar mensagens para o Responsável vinculado| Tirar uma dúvida|
+|01|Tutor| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e dar um feedback sobre a atividade executada|
+|02|Tutor| Receber notificação de mensagem lida| Saber se a criança visualizou a mensagem enviada|
 
 **HU-08**
-|COMO| QUERO| PARA|
-|-----|------|-----|
-|Criança| Realizar as atividades cadastradas| Aprendizado|
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Criança| Enviar mensagens para o Tutor vinculado| Tirar uma dúvida|
 
 **HU-09**
-|COMO| QUERO| PARA|
-|-----|------|-----|
-|Criança| Acompanhar o Ranck| Visualizar a pontuação|
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Criança| Realizar as atividades cadastradas| Aprendizado|
+|02|Criança| Enviar as atividades cadastradas| Aprendizado|
+|03|Criança| Alterar as atividades cadastradas (RN 06)| Corrigir atividades|
+|04|Criança| Receber uma mensagem ao término de cada atividade| Incentivar e confirmação da tarefa executada|
 
 **HU-10**
-|COMO| QUERO| PARA|
-|-----|------|----|
-|Criança| Receber uma mensagem ao termino de cada atividade| Incentivar e confirmação da tarefa executada|
-
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Criança| Acompanhar o ranking| Visualizar a classificação das crianças de acordo com a pontuação recebida nas atividades|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
