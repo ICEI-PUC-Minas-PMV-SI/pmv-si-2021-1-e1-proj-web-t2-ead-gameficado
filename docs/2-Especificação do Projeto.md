@@ -354,6 +354,9 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |01|Tutor| Pontuar um grupo com bases nas atividades realizadas pelas crianças que fazem parte daquele grupo| Promover e incetivar o estudo daquele grupo|
 |02|Tutor ou Criança| Visualizar a classificação dos grupos| Promover e incetivar o estudo daquele grupo|
 
+
+
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -393,9 +396,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RE-02| Não pode ser desenvolvido um módulo de backend        |
 |RE-03| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend        |
 |RE-04| A equipe não pode subcontratar o desenvolvimento do trabalho        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
