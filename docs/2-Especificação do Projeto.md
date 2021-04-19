@@ -239,7 +239,7 @@ Com base nas necessidades da plataforma, foram identificadas as seguintes regras
 
 ## Histórias de Usuários
 
-Com base no questionário das personas foram identificadas as histórias de usuários listadas a seguir.
+Com base no questionário das personas foram identificadas as histórias de usuários listadas a seguir:
 
 **HU-01**
 
