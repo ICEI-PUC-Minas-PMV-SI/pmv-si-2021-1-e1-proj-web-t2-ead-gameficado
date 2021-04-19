@@ -277,26 +277,38 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |01|Tutor| Cadastrar atividades| Para que as atividades pedagógicas sejam inseridas na plataforma|
 |02|Tutor| Alterar atividades| Para que as atividades pedagógicas sejam alteradas na plataforma|
 |03|Tutor| Excluir atividades| Para que as atividades pedagógicas sejam excluídas logicamente da plataforma|
-|04|Tutor| Listar atividades| Listar as atividades pedagógicas cadastradas|
+|04|Tutor| Consultar atividades| Listar as atividades pedagógicas cadastradas|
 
 **HU-06**
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
-|01|Tutor| Visualizar o desenvolvimento das atividades executadas/não executadas| Acompanhar o desenvolvimento da criança|
-|02|Tutor| Avaliar a atividade realizada com um emoticon (feliz ou triste)| Motivar a criança na realização de atividades|
+|01|Tutor| Cadastrar objetivos atividades| Para que as atividades possuam um meta a ser alcaçada|
+|02|Tutor| Alterar objetivos atividades| Alterar a meta de uma atividade|
+|03|Tutor| Excluir objetivos atividades| Excluir logicamente a meta de uma atividade|
+|04|Tutor| Consultar objetivos das atividades| Listar os objetivos cadastrados|
+|06|Tutor e Criança| Receber uma notificação de que um objetivo foi alcançado|Motivar a criança|
+
 
 **HU-07**
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Visualizar o desenvolvimento das atividades executadas/não executadas| Acompanhar o desenvolvimento da criança|
+|02|Tutor| Avaliar a atividade realizada com um emoticon (feliz ou triste)| Motivar a criança na realização de atividades|
+|03|Tutor| Atribuir uma pontuação à atividade realizada| Definir os pontos da atividade|
+|04|Tutor| Alterar a pontuação de atividade realizada| Alterar os pontos da atividade|
+
+**HU-08**
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
 |01|Tutor| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e dar um feedback sobre a atividade executada|
 |02|Tutor| Receber notificação de mensagem lida| Saber se a criança visualizou a mensagem enviada|
 
-**HU-08**
+**HU-09**
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
 |01|Criança| Enviar mensagens para o Tutor vinculado| Tirar uma dúvida|
 
-**HU-09**
+**HU-10**
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
 |01|Criança| Realizar as atividades cadastradas| Aprendizado|
@@ -304,20 +316,40 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |03|Criança| Alterar as atividades cadastradas (RN 06)| Corrigir atividades|
 |04|Criança| Receber uma mensagem ao término de cada atividade| Incentivar e confirmação da tarefa executada|
 
-**HU-10**
+**HU-11**
 |CENÁRIO |COMO   |QUERO |PARA |
 |--------|-----------|------------|------|
 |01|Criança| Acompanhar o ranking| Visualizar a classificação das crianças de acordo com a pontuação recebida nas atividades|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+**HU-12**
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Cadastrar cronograma de estudo| Definir os horários de estudo da criança|
+|02|Tutor| Alterar cronograma de estudo| Alterar os horários de estudo da criança|
+|03|Tutor| Excluir cronograma de estudo| Excluir logicamente os horários de estudo da criança|
+|04|Tutor| Consultar cronogramaa de estudo| Listar os horários de estudo da criança|
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+**HU-13**
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Cadastrar premiação| Definir os prêmios que podem ser concedidos a uma criança|
+|02|Tutor| Alterar premiação| Alterar os prêmios que podem ser concedidos a uma criança|
+|03|Tutor| Excluir premiação| Excluir logicamente os prêmios que podem ser concedidos a uma criança|
+|04|Tutor| Consultar premiação| Listar os prêmios que podem ser concedidos a uma criança|
 
+**HU-14**
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Cadastrar grupo de crianças| Permitir a socialização e que sejam realizadas atividades em conjunto|
+|02|Tutor| Alterar grupo de crianças| Alterar as informações do grupo|
+|03|Tutor| Excluir grupo de crianças| Excluir logicamente a existência de um grupo|
+|04|Tutor| Consultar grupos de crianças| Listar os grupos cadastrados|
+
+**HU-15**
+|CENÁRIO |COMO   |QUERO |PARA |
+|--------|-----------|------------|------|
+|01|Tutor| Pontuar um grupo com bases nas atividades realizadas pelas crianças que fazem parte daquele grupo| Promover e incetivar o estudo daquele grupo|
+|02|Tutor ou Criança| Visualizar a classificação dos grupos| Promover e incetivar o estudo daquele grupo|
 
 ## Requisitos
 
