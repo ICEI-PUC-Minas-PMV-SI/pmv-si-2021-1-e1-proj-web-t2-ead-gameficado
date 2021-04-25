@@ -1,3 +1,12 @@
 # Apresentação da Solução
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+Vídeo de apresentação da solução proposta pelo EaD Gameficado:
+
+https://www.youtube.com/watch?v=w9pCy68ESaA
+
+
+
+Apresentação em PDF(Slides):
+
+
+
