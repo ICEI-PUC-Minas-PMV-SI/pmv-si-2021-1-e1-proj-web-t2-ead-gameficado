@@ -243,119 +243,32 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 
 **HU-01**
 
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01| Usuário     | Cadastrar pessoa          | Para ter acesso a plataforma |
-|02| Usuário      | Alterar pessoa          | Para alterar os dados cadastrados na plataforma|
-|03| Usuário      | Excluir pessoa          | Excluir logicamente da plataforma a pessoa cadastrada |
-|04| Usuário      | Consultar pessoas          | Listar as pessoas cadastradas na plataforma |
-
+|COMO   |QUERO |PARA |
+|-----------|------------|------|
+|Administrador| Manter perfil| Gerenciar os dados de perfis do sistema|
 
 **HU-02**
 
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01| Administrador      | Cadastrar perfil          | Definir os perfis de acesso à plataforma|
-|02| Administrador      | Alterar perfil          | Alterar os dados do peril cadastrado |
-|03| Administrador      | Excluir perfil          | Excluir logicamente da plataforma o perfil cadastrado |
-|04| Administrador      | Consultar Perfis         | Listar os perfis cadastrados na plataforma |
+|COMO   |QUERO |PARA |
+|-----------|------------|------|
+|Tutor| Gerenciar Atividades| Cadastrar, alterar, consultar, excluir atividades, definir objetivos e atribuir premiações|
+|Tutor| Consultar pessoas vinculadas ao meu perfil| Verificar quem está associado ao meu perfil|
+|Tutor| Visualizar o desenvolvimento das atividades|Atribuir  pontuações as atividades realizadas e avaliar o cronograma estabelecido|
+|Tutor| Gerenciar grupo de crianças| Permitir a socialização e que sejam realizadas atividades em conjunto|
 
 **HU-03**
 
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01| Administrador      | Ativar/Desativar o cadastro de uma pessoa          | Para ter acesso à plataforma|
-|02| Admistrador| Editar o perfil de uma pessoa| Para associar o perfil correto à pessoa que está utilizando a plataforma|
-
+|COMO   |QUERO |PARA |
+|-----------|------------|------|
+|Tutor e Criança| Receber uma notificação de que um objetivo foi alcançado| Motivar a criança|
+|Tutor e Criança| Enviar mensagens um para o outro| Esclarecer uma dúvida e/ou dar um feedback sobre a atividade executada|
 
 **HU-04**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Vincular/Desvincular o cadastro da criança ao meu perfil de tutor| Associar criança ao tutor|
-|02|Tutor| Consultar as pessoas vinculadas ao meu perfil| Verificar quem está associado ao meu perfil|
 
-**HU-05**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Cadastrar atividades| Para que as atividades pedagógicas sejam inseridas na plataforma|
-|02|Tutor| Alterar atividades| Para que as atividades pedagógicas sejam alteradas na plataforma|
-|03|Tutor| Excluir atividades| Para que as atividades pedagógicas sejam excluídas logicamente da plataforma|
-|04|Tutor| Consultar atividades| Listar as atividades pedagógicas cadastradas|
-
-**HU-06**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Cadastrar objetivos atividades| Para que as atividades possuam um meta a ser alcaçada|
-|02|Tutor| Alterar objetivos atividades| Alterar a meta de uma atividade|
-|03|Tutor| Excluir objetivos atividades| Excluir logicamente a meta de uma atividade|
-|04|Tutor| Consultar objetivos das atividades| Listar os objetivos cadastrados|
-|06|Tutor e Criança| Receber uma notificação de que um objetivo foi alcançado|Motivar a criança|
-
-
-**HU-07**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Visualizar o desenvolvimento das atividades executadas/não executadas| Acompanhar o desenvolvimento da criança|
-|02|Tutor| Avaliar a atividade realizada com um emoticon (feliz ou triste)| Motivar a criança na realização de atividades|
-|03|Tutor| Atribuir uma pontuação à atividade realizada| Definir os pontos da atividade|
-|04|Tutor| Alterar a pontuação de atividade realizada| Alterar os pontos da atividade|
-
-**HU-08**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Enviar mensagens para a criança vinculada a sua conta| Esclarecer uma dúvida e dar um feedback sobre a atividade executada|
-|02|Tutor| Receber notificação de mensagem lida| Saber se a criança visualizou a mensagem enviada|
-
-**HU-09**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Criança| Enviar mensagens para o Tutor vinculado| Tirar uma dúvida|
-
-**HU-10**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Criança| Realizar as atividades cadastradas| Aprendizado|
-|02|Criança| Enviar as atividades cadastradas| Aprendizado|
-|03|Criança| Alterar as atividades cadastradas (RN 06)| Corrigir atividades|
-|04|Criança| Receber uma mensagem ao término de cada atividade| Incentivar e confirmação da tarefa executada|
-
-**HU-11**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Criança| Acompanhar o ranking| Visualizar a classificação das crianças de acordo com a pontuação recebida nas atividades|
-
-**HU-12**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Cadastrar cronograma de estudo| Definir os horários de estudo da criança|
-|02|Tutor| Alterar cronograma de estudo| Alterar os horários de estudo da criança|
-|03|Tutor| Excluir cronograma de estudo| Excluir logicamente os horários de estudo da criança|
-|04|Tutor| Consultar cronogramaa de estudo| Listar os horários de estudo da criança|
-
-**HU-13**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Cadastrar premiação| Definir os prêmios que podem ser concedidos a uma criança|
-|02|Tutor| Alterar premiação| Alterar os prêmios que podem ser concedidos a uma criança|
-|03|Tutor| Excluir premiação| Excluir logicamente os prêmios que podem ser concedidos a uma criança|
-|04|Tutor| Consultar premiação| Listar os prêmios que podem ser concedidos a uma criança|
-
-**HU-14**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Cadastrar grupo de crianças| Permitir a socialização e que sejam realizadas atividades em conjunto|
-|02|Tutor| Alterar grupo de crianças| Alterar as informações do grupo|
-|03|Tutor| Excluir grupo de crianças| Excluir logicamente a existência de um grupo|
-|04|Tutor| Consultar grupos de crianças| Listar os grupos cadastrados|
-
-**HU-15**
-|CENÁRIO |COMO   |QUERO |PARA |
-|--------|-----------|------------|------|
-|01|Tutor| Pontuar um grupo com bases nas atividades realizadas pelas crianças que fazem parte daquele grupo| Promover e incetivar o estudo daquele grupo|
-|02|Tutor ou Criança| Visualizar a classificação dos grupos| Promover e incetivar o estudo daquele grupo|
-
-
-
+|COMO   |QUERO |PARA |
+|-----------|------------|------|
+|Criança| Realizar e enviar as atividades cadastradas| Associar criança ao tutor|
+|Criança| Acompanhar o Ranking| Visualizar a classificação das crianças de acordo com a pontuação recebida nas atividades|
 
 ## Requisitos
 
