@@ -278,14 +278,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir o cadastramento de tarefas pelos tutores | ALTA | 
-|RF-002| O site deve permitir a avaliação das tarefas e atribuição da pontuação atingida | ALTA |
-|RF-003| O site deve permitir o cadastramento de premiações, conforme regras preestabelecidas | ALTA |
-|RF-004| O site deve permitir o cadastramento do cronograma de estudos | MÉDIA |
-|RF-005| O site deve permitir feedbacks de objetivos alcançados | MÉDIA |
-|RF-006| O site deve permitir a criação de grupos e a formação de ranking  | MÉDIA |
-|RF-007| O site deve permitir o acompanhamento do resultado individual das atividades e o resultado total | MÉDIA |
-|RF-008| O site deve permitir troca de mensagens (chat - real time) entre aluno e tutor | BAIXA |
+|RF-001| Cadastrar e gerenciar responsáveis| ALTA | 
+|RF-002| Cadastrar e gerenciar crianças | ALTA | 
+|RF-003| Cadastrar e gerenciar tutores| ALTA |
+|RF-004| Cadastrar e gerenciar tarefas| ALTA |  
+|RF-005| Cadastrar e gerenciar premiações| ALTA | 
+|RF-006| Cadastrar e gerenciar cronograma de estudo| MÉDIA | 
+|RF-007| Cadastrar e gerenciar grupos e ranking | MÉDIA | 
+|RF-008| Efetuar avaliações e pontuações | BAIXA | 
+|RF-009| Visualizar resultado individual e total | BAIXA | 
+|RF-010| Conversar via chat ao vivo | MÉDIA | 
+|RF-011| Pesquisar tutores| MÉDIA | 
+|RF-012| Registrar e Logar no Sistema Web com usuário e senha | ALTA |
 
 ### Requisitos não Funcionais
 
