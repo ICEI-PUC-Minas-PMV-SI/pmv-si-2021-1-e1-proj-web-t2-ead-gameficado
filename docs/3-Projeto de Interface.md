@@ -6,8 +6,8 @@ Embora houvessem diversas demandas relativas a interface adotada para o sistema,
 ## User Flow
 
 O diagrama relativo ao fluxo de interação do usuário pelas telas do sistema é mostrado na figura a seguir (algumas das telas gerais do sistema são apresentadas, de forma detalhada, na seção de Wireframes).
-
-
+![Figura 1 - Fluxo de telas de usuário ](img/Diagrama.jpeg)
+Figura 1 - Fluxo de telas de usuário
 
 ## Wireframes
 
