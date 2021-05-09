@@ -48,19 +48,29 @@ A tela de cadastramento do tutor mostra os itens necessários para ser realizado
 ![Figura 5 - Tela de Cadastramento do Tutor](img/Cadastro_do_tutor.jpg)
 Figura 5 - Tela de Cadastramento do Tutor
 
+### Tela de Área do Tutor
+A tela de Área do tutor mostra os itens necessários para que o tutor faça o controle de dados e cadastramentos de coisas voltadas ao aluno pelo qual é responsável. Os itens dessa página são:
+* Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
+* Área de Controle - Contendo pontos para o usuário Tutor(já cadastrado) cadastrar atividades para aluno pelo qual é responsável, montar ou liberar a participação do seu aluno no grupos de alunos, elaborar e checar cronogramas e avaliar atividades (para todas essas fucionalidades, há redirecionamento para outras páginas);
+* Área de Checagem passiva - Permitindo acesso aos dados da evolução do usuário aluno de forma passiva.
+* Chat - Permitindo conversação entre o Tutor e o aluno pelo qual é responsável.
+![Figura 6 - Tela de Área do Tutor](img/Area-do-Tutor.jpg)
+Figura 6 - Tela de Área do Tutor
+
 ### Tela de Cadastramento do aluno
 A tela de cadastramento do aluno mostra os itens necessários para ser realizado o cadastramento do aluno para o acesso ao sistema e disponibiliza dados para verificação do usuário quanto a onde se encotra no sistema. Os itens dessa página são:
 * Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
 * Área de cadastramento do Aluno - Contendo pontos para o usuário Tutor(já cadastrado) preencher para conseguir cadastrar o aluno no sistema;
 * Área de escolha de avatar - Permitindo ao usuário a escolha de uma imagem na qual sente que o aluno pelo qual é responsável é representado.
-![Figura 6 - Tela de Cadastramento de Aluno](img/Cadastro-do-Aluno.jpg)
-Figura 6 - Tela de Cadastramento do Tutor
+![Figura 7 - Tela de Cadastramento de Aluno](img/Cadastro-do-Aluno.jpg)
+Figura 7 - Tela de Cadastramento do Aluno
+
+### Tela de Área do Aluno
+A tela de Área do aluno mostra os itens necessários para que o aluno faça o controle de dados e de coisas voltadas as suas atividades escolares. Os itens dessa página são:
+* Cabeçalho - Contendo a logo e o nome do local no sistema em que o aluno se encontra;
+* Área de Controle - Contendo pontos para o usuário aluno(já cadastrado) ter acesso a sua evolução (para essa fucionalidade, há redirecionamento para outras páginas);
+* Área de Checagem passiva - Permitindo acesso aos dados da evolução do usuário aluno de forma passiva.
+* Chat - Permitindo conversação entre o Tutor e o aluno pelo qual é responsável.
+![Figura 8 - Tela de Área do Aluno](img/Area-do-Aluno.jpg)
+Figura 8 - Tela de Área do Aluno
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
