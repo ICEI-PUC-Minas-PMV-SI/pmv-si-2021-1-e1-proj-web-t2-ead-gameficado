@@ -28,8 +28,25 @@ A tela de Home-Page mostra os destaques para quem ainda não tem cadastramento n
 * Área explicativa - Para fins de explicar superficialmente do que o site trata (como ao dizer para gerenciar as atividades dos filhos;
 * Área de criação de conta - Permitindo acesso a outra página relativa a cadastramento no site.
 
-![Figura 3 - Home ](img/Home.jpg)
-Figura 1 - Fluxo de telas de usuário
+![Figura 3 - Tela de Home ](img/Home.jpg)
+Figura 3 - Tela de Home-Page
+
+### Tela de Login
+
+A tela de Login mostra os itens necessários para acesso ao sistema e disponibiliza dados para verificação do usuário de onde se encotra no sistema. Os itens dessa página são:
+* Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
+* Área de login - Contendo pontos para o usuário preencher para conseguir acesso ao sistema;
+* Área de Redefinição de senha - Permitindo acesso a outra página relativa a cadastramento de nova senha para conseguir acesso ao sistema em caso de esquecimento.
+![Figura 4 - Tela de Login ](img/Login.jpg)
+Figura 4 - Tela de Login
+
+### Tela de Cadastramento do tutor
+A tela de cadastramento mostra os itens necessários para ser realizado o cadastramento para o acesso ao sistema e disponibiliza dados para verificação do usuário de onde se encotra no sistema. Os itens dessa página são:
+* Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
+* Área de cadastramento - Contendo pontos para o usuário preencher para conseguir se cadastrar no sistema;
+* Área de escolha de avatar - Permitindo ao usuário a escolha de uma imagem na qual se sente representado.
+![Figura 5 - Tela de Cadastramento do Tutor](img/Cadastro_do_tutor.jpg)
+Figura 5 - Tela de Cadastramento do Tutor
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
