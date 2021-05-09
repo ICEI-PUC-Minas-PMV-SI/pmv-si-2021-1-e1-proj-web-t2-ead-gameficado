@@ -33,7 +33,7 @@ Figura 3 - Tela de Home-Page
 
 ### Tela de Login
 
-A tela de Login mostra os itens necessários para acesso ao sistema e disponibiliza dados para verificação do usuário de onde se encotra no sistema. Os itens dessa página são:
+A tela de Login mostra os itens necessários para acesso ao sistema e disponibiliza dados para verificação do usuário quanto a onde se encotra no sistema. Os itens dessa página são:
 * Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
 * Área de login - Contendo pontos para o usuário preencher para conseguir acesso ao sistema;
 * Área de Redefinição de senha - Permitindo acesso a outra página relativa a cadastramento de nova senha para conseguir acesso ao sistema em caso de esquecimento.
@@ -41,12 +41,20 @@ A tela de Login mostra os itens necessários para acesso ao sistema e disponibil
 Figura 4 - Tela de Login
 
 ### Tela de Cadastramento do tutor
-A tela de cadastramento mostra os itens necessários para ser realizado o cadastramento para o acesso ao sistema e disponibiliza dados para verificação do usuário de onde se encotra no sistema. Os itens dessa página são:
+A tela de cadastramento do tutor mostra os itens necessários para ser realizado o cadastramento do Tutor que quer ter acesso ao sistema e disponibiliza dados para verificação do usuário quuanto a onde se encotra no sistema. Os itens dessa página são:
 * Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
-* Área de cadastramento - Contendo pontos para o usuário preencher para conseguir se cadastrar no sistema;
+* Área de cadastramento do Tutor - Contendo pontos para o usuário preencher para conseguir se cadastrar no sistema;
 * Área de escolha de avatar - Permitindo ao usuário a escolha de uma imagem na qual se sente representado.
 ![Figura 5 - Tela de Cadastramento do Tutor](img/Cadastro_do_tutor.jpg)
 Figura 5 - Tela de Cadastramento do Tutor
+
+### Tela de Cadastramento do aluno
+A tela de cadastramento do aluno mostra os itens necessários para ser realizado o cadastramento do aluno para o acesso ao sistema e disponibiliza dados para verificação do usuário quanto a onde se encotra no sistema. Os itens dessa página são:
+* Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
+* Área de cadastramento do Aluno - Contendo pontos para o usuário Tutor(já cadastrado) preencher para conseguir cadastrar o aluno no sistema;
+* Área de escolha de avatar - Permitindo ao usuário a escolha de uma imagem na qual sente que o aluno pelo qual é responsável é representado.
+![Figura 6 - Tela de Cadastramento de Aluno](img/Cadastro-do-Aluno.jpg)
+Figura 6 - Tela de Cadastramento do Tutor
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
