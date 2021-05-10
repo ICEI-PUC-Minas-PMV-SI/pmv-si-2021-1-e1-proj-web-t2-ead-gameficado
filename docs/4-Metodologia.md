@@ -31,9 +31,7 @@ A equipe decide entre si quem será o responsável pela execução de cada taref
  
 ### Ferramentas
 
-A ferramenta empregada no projeto é:
-
--Github.
+A ferramenta empregada no projeto é o Github.
 
 
 
