@@ -17,6 +17,7 @@ foi utilizado para hospedagem do repositório.
 ### Divisão de Papéis
 
 Scrum Master: papel atribuído a karina Bezerra.
+
 Dev Team: este papel será responsabilidade de toda equipe, pois todos estão participando da construção de cada etapa do projeto. 
 
 
