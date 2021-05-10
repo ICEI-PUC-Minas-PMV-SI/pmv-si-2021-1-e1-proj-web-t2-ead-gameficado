@@ -24,6 +24,7 @@ Dev Team: este papel será responsabilidade de toda equipe, pois todos estão pa
 ### Processo
 
 A implementação do projeto está sendo realizada através da metodologia do Kanban dentro do github, atraves de cards gerenciamos as tarefas, as prioridade e quem é responsavel por cada tarefa. Seguimos os backlogs e artefatos pré-definidos para gerar o nosso produto final, e a execução está sendo realizada via ordem de prioridade, dentro do sprint.
+
 A equipe decide entre si quem será o responsável pela execução de cada tarefa, dentro do sprint definido e através dos cards acompanhamos a evolução do desenvolvimento do projeto. 
 
 
