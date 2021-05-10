@@ -1,8 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 O trabalho está sendo conduzido seguindo o controle de versão e a gestão de equipe, via Github. 
 
 ## Controle de Versão
