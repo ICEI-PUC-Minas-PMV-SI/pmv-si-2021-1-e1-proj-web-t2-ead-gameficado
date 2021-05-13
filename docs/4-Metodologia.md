@@ -32,6 +32,7 @@ A equipe decide entre si quem será o responsável pela execução de cada taref
 A ferramenta empregada no projeto São:  
 
 •	Github (Controle de versão)
+
 •	Github (Gerenciamento do projeto)
 
 
