@@ -1,0 +1,14 @@
+{
+    "CadastroTutor": [{
+        "id": "1",
+        "nome": "Nome Completo",
+        "dtNs": "Data de nascimento",
+        "email": "Email",
+        "celular": "Celular",
+        "prof": "Profissão",
+        "cidade": "Cidade",
+        "estado": "Estado",
+        "CriTu": "Criança/Tutor",
+        "senha": "Senha"
+    }]
+}
