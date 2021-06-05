@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="CadastroAluno.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+    <title>EaD Gamificado</title>
+
+</head>
+
+<body style="background-color: #efeeff;">
+
+    <div class="clearfix" style="background-color: #c3a7fa; border-bottom: #717171 solid 1px">
+
+        <div id="logo">
+            <nav class="navbar navbar-light">
+                <div>
+                    <a class="navbar-brand" href="index.html">
+                        <img src="img/LogoEaDge.png" width="400">
+                    </a>
+                </div>
+            </nav>
+
+        </div>
+
+        <div id="cabecalho">
+            </h1>Faça seu cadastro como aluno</h1>
+
+        </div>
+
+    </div>
+
+    <!-- BLOCO FORMULÁRIO -->
+
+
+    <div style="margin-top: 10px;">
+        <div>
+            <div>
+
+                <form id="cadastroAlunoForm" method="POST" action="" class="container formulario col" style="width: 650px;">
+                    <div class="row">
+                        <div id="listaCadAluno" class="col-md">
+                            <div style=" padding-bottom: 10px; ">
+                                <input type="text " class="form-control " placeholder="Nome Completo" id="nome" required>
+                            </div>
+
+                            <div style="padding-bottom: 10px; ">
+                                <input type="text " class="form-control " placeholder="Data de nascimento" id="dtNs" required>
+                            </div>
+
+                            <div style=" padding-bottom: 10px; ">
+                                <input type="email " class="form-control " placeholder="Email" id="email" required>
+                            </div>
+
+                            <div style="padding-bottom: 10px; ">
+                                <input type="text " class="form-control " placeholder="Celular" id="celular" required>
+                            </div>
+
+                            <div style="padding-bottom: 10px; ">
+                                <input type="text " class="form-control " placeholder="Série/Ano" id="Ano" required>
+                            </div>
+
+                        
+                            <!-- CIDADE / ESTADO -->
+
+                            <div>
+
+                                <div style="padding-bottom: 10px; ">
+                                    <div class="row ">
+                                        <div class="col-9 ">
+                                            <input type="text " class="form-control " placeholder="Cidade" id="cidade" required>
+
+                                        </div>
+
+                                        <div class="col-3 " style="padding-bottom: 10px; ">
+                                            <select class="form-control " id="inlineFormCustomSelect" id="estado">
+                                                <option value="ac ">Estado</option>
+                                                <option value="ac ">AC</option>
+                                                <option value="al ">AL</option>
+                                                <option value="ap ">AP</option>
+                                                <option value="am ">AM</option>
+                                                <option value="ba ">BA</option>
+                                                <option value="ce ">CE</option>
+                                                <option value="df ">DF</option>
+                                                <option value="es ">ES</option>
+                                                <option value="go ">GO</option>
+                                                <option value="ma ">MA</option>
+                                                <option value="mt ">MT</option>
+                                                <option value="ms ">MS</option>
+                                                <option value="mg ">MG</option>
+                                                <option value="pa ">PA</option>
+                                                <option value="pb ">PB</option>
+                                                <option value="pr ">PR</option>
+                                                <option value="pe ">PE</option>
+                                                <option value="pi ">PI</option>
+                                                <option value="rj ">RJ</option>
+                                                <option value="rn ">RN</option>
+                                                <option value="rs ">RS</option>
+                                                <option value="ro ">RO</option>
+                                                <option value="rr ">RR</option>
+                                                <option value="sc ">SC</option>
+                                                <option value="sp ">SP</option>
+                                                <option value="se ">SE</option>
+                                                <option value="to ">TO</option>
+                                            </select>
+
+                                        </div>
+                                    </div>
+
+                                    <div style="padding-bottom: 10px; ">
+                                        <input type="text " class="form-control " placeholder="@username" id="criTuT" required>
+                                    </div>
+                                    <div class="col-4 " style="margin-left: -15px; ">
+                                        <div style="padding-bottom: 10px; ">
+                                            <input type="password" class="form-control" id="inputPassword2" placeholder="Password" required>
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+                                <button type="submit " class="btn btn-primary ">Enviar</button>
+                            </div>
+
+                        </div>
+                    </div>
+                </form>
+
+                <!-- BLOCO AVATAR -->
+
+
+                <div class="container" style="display: contents;">
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="escolha ">
+                                </h2>Escolha seu avatar</h2>
+
+                            </div>
+
+                            <div>
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-1.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-2.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-3.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-4.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-5.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-6.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-7.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-8.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-9.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-10.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-11.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-12.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-13.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-14.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-15.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/girl-16.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-1.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-2.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-3.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-4.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-5.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-6.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-7.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-8.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-9.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-10.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-11.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-12.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-13.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-14.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-15.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                                <figure class="figure ">
+                                    <input type="image" src="163800-kids-avatars/png/boy-16.png " style="max-width: 50px; max-height: 50px;">
+                                </figure>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+    <script src="main_ct.js "></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js " integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj " crossorigin="anonymous "></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js " integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns " crossorigin="anonymous "></script>
+</body>
+
