@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styleCadastroAtividade.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  
+  <script src="cadastroAtividade.js"></script>
+
+  <integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+    <title>EaD Gamificado - Cadastro de Atividade</title>
+
+</head>
+
+<body>
+ 
+  <div class="clearfix" style="background-color: #c3a7fa; border-bottom: #717171 solid 1px" ;>
+
+    <div id="logo">
+        <a href="index.html"><img src="img/LogoEaDge.png" width=400></a>
+    </div>
+
+    <div id="cabecalho" style="text-align: center;">
+      </h1>Cadastro de Atividades</h1>
+    </div>
+
+  </div>
+
+  <div class="container-xl">
+	<div class="table-responsive">
+		<div class="table-wrapper">
+			<div class="table-title">
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Gerenciar <b>Atividades</b></h2>
+					</div>
+					<div class="col-sm-6">
+						<a href="#adicionarAtividadeModal" class="btn btn-success" data-toggle="modal"><i class="material-icons">&#xE147;</i> <span>Adicionar Nova Atividade</span></a>
+						<a href="#deletarAtividadeModal" class="btn btn-danger" data-toggle="modal"><i class="material-icons">&#xE15C;</i> <span>Deletar</span></a>						
+					</div>
+				</div>
+			</div>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="selectAll">
+								<label for="selectAll"></label>
+							</span>
+						</th>
+						<th>Aluno</th>
+						<th>Matéria</th>
+						<th>Atividade</th>
+						<th>Avaliação</th>
+                        <th>Localização</th>
+						<th>Ações</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox1" name="options[]" value="1">
+								<label for="checkbox1"></label>
+							</span>
+						</td>
+						<td>Gustavo</td>
+						<td>Matemática</td>
+						<td><b>Se um carro percorre uma distância de 340 km em 4 horas, sua velocidade 
+                            média nesse percurso é: </b><br><br>
+                            A) 34 km/h.<br>
+                            B) 85 km/h.<br>
+                            C) 340 km/h.<br>
+                            D) 1360 km/h</td>
+						<td>Vale 1,0</td>
+                        <td>Ponto 1</td>
+						<td>
+							<a href="#editarAtividadeModal" class="edit" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="#deletarAtividadeModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox2" name="options[]" value="1">
+								<label for="checkbox2"></label>
+							</span>
+						</td>
+						<td>Gustavo</td>
+						<td>Ciências</td>
+						<td><b>Correr,estudar e dançar são atividades que necessitam de muita energia e que podemos 
+                            realizar graças às nossas células que trabalham sem parar. Ao conjunto de reações 
+                            químicas que ocorrem ao nível das células chamamos de:</b><br> <br> 
+                            (A) multiplicação celular. <br>
+                            (B) metabolismo celular.<br> 
+                            (C) respiração celular. <br>
+                            (D) digestão celular.</td>
+						<td>Vale 1,5</td>
+                        <td>Ponto 3</td>
+						<td>
+							<a href="#editarAtividadeModal" class="edit" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="#deletarAtividadeModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox3" name="options[]" value="1">
+								<label for="checkbox3"></label>
+							</span>
+						</td>
+						<td>Mariana</td>
+						<td>História</td>
+						<td><b>Em 3200 a.C., Menés ficou conhecido por ser o primeiro Faraó do Egito Antigo. Durante os seus reinados, os faraós possuíam bastante poder político e econômico. 
+                            Diante disso, marque a alternativa correta sobre o que foi a Teocracia na civilização egípcia:</b><br><br>
+
+                            a) Os Faraós tinham autonomia política e econômica na civilização egípcia, mas, em relação à religião, eles não demonstravam tanta autoridade, pois os deuses eram considerados os mais poderosos pelos indivíduos egípcios.<br>
+                            
+                            b) Teocracia foi uma forma de governo no Egito Antigo em que os Faraós promoveram uma aliança entre religião e política, uma vez que eles eram adorados como deuses e respeitados como rei.<br>
+                            
+                            c) Um governo teocrático era simplesmente aquele em que os indivíduos eram governados por um Faraó que, apesar do grande poder político e econômico, não era visto como um deus.<br>
+                            
+                            d) Somente o Faraó Mentuhotep II, durante o Médio Império, conseguiu promover uma monarquia teocrática em que ele era visto como um deus perante os indivíduos egípcios.</td>
+						<td>Vale 2,0</td>
+                        <td>Ponto 10</td>
+						<td>
+							<a href="#editarAtividadeModal" class="edit" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="#deletarAtividadeModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox4" name="options[]" value="1">
+								<label for="checkbox4"></label>
+							</span>
+						</td>
+						<td>Mariana</td>
+						<td>Geografia</td>
+						<td><b>As regiões brasileiras exercem diferentes papéis no que diz respeito à “divisão inter-regional do trabalho”, ressaltando-se que:</b><br><br>
+
+                            a) a Região Sudeste, coordenando o mercado nacional, caracteriza-se por ser exportadora unicamente de produtos provenientes do setor primário.<br>
+                            
+                            b) A Região Sul desempenha um papel eminentemente industrial como fornecedora de produtos do setor secundário.<br>
+                            
+                            c) A Região Norte caracteriza-se pela exportação de matérias-primas de origem diversa, com destaque para os minérios.<br>
+                            
+                            d) A Região Nordeste, mesmo com seus problemas endêmicos, consegue ser fornecedora de alimentos para a força de trabalho de outras regiões.<br>
+                            
+                            e) A Região Centro-Oeste caracteriza-se principalmente pela exportação de produtos agrícolas com destaque para o cacau e o fumo.</td>
+						<td>Vale 1,0</td>
+                        <td>Ponto 2</td>
+						<td>
+							<a href="#editarAtividadeModal" class="edit" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="#deletarAtividadeModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>					
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox5" name="options[]" value="1">
+								<label for="checkbox5"></label>
+							</span>
+						</td>
+						<td>Maria</td>
+						<td>Português</td>
+						<td><h5>Eu só quero um xodó </h5>
+                           <small><b> Anastácia e Dominguinhos </b></small><br><br>
+                           Que falta eu sinto de um bem <br>
+                           Que falta me faz um xodó <br>
+                           Mas como eu não tenho ninguém <br>
+                           Eu levo a vida assim tão só! <br>
+                           Eu só quero um amor <br>
+                           Que acalme o meu sofrer <br>
+                           Um xodó pra mim, <br>
+                           Do meu jeito assim, <br>
+                           Que alegre o meu sofrer. <br><br>
+                           <small>Anastácia e Dominguinhos. In: CANSADO, Beth (org.). Aquarela brasileira, Brasília: Corte, 1994. </small><br><br>
+                           O uso da palavra xodó no título: “Eu só quero um xodó” indica que há o desejo de: <br><br>
+                           (A) mudar o jeito de ser. <br>
+                           (B) encontrar um amor. <br>
+                           (C) continuar a sofrer. <br>
+                           (D) ficar só.</td>
+						<td>Vale 0,5</td>
+                        <td>Ponto 9</td>
+						<td>
+							<a href="#editarAtividadeModal" class="edit" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="#deletarAtividadeModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr> 
+				</tbody>
+			</table>
+			<div class="clearfix">
+				<div class="hint-text">Mostrando <b>5</b> de <b>25</b> atividades</div>
+				<ul class="pagination">
+					<li class="page-item disabled"><a href="#">Anterior</a></li>
+					<li class="page-item"><a href="#" class="page-link">1</a></li>
+					<li class="page-item"><a href="#" class="page-link">2</a></li>
+					<li class="page-item active"><a href="#" class="page-link">3</a></li>
+					<li class="page-item"><a href="#" class="page-link">4</a></li>
+					<li class="page-item"><a href="#" class="page-link">5</a></li>
+					<li class="page-item"><a href="#" class="page-link">Próxima</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>        
+</div>
+<!-- Adicionar Atividade Modal HTML -->
+<div id="adicionarAtividadeModal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<form>
+				<div class="modal-header">						
+					<h4 class="modal-title">Adicionar Atividade</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				</div>
+				<div class="modal-body">					
+					<div class="form-group">
+						<label>Nome</label>
+						<input type="text" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<label>Matéria</label>
+						<input type="text" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<label>Atividade</label>
+						<textarea class="form-control" required></textarea>
+					</div>
+					<div class="form-group">
+						<label>Avaliação</label>
+						<input type="text" class="form-control" required>
+					</div>	
+                    <div class="form-group">
+						<label>Localização</label>
+						<input type="text" class="form-control" required>
+					</div>				
+				</div>
+				<div class="modal-footer">
+					<input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar">
+					<input type="submit" class="btn btn-success" value="Adicionar">
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- Editar Atividade Modal HTML -->
+<div id="editarAtividadeModal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<form>
+				<div class="modal-header">						
+					<h4 class="modal-title">Editar atividade</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				</div>
+				<div class="modal-body">					
+					<div class="form-group">
+						<label>Nome</label>
+						<input type="text" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<label>Matéria</label>
+						<input type="text" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<label>Atividade</label>
+						<textarea class="form-control" required></textarea>
+					</div>
+					<div class="form-group">
+						<label>Avaliação</label>
+						<input type="text" class="form-control" required>
+					</div>					
+                    <div class="form-group">
+						<label>Localização</label>
+						<input type="text" class="form-control" required>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar">
+					<input type="submit" class="btn btn-info" value="Salvar">
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- Deletar Atividade Modal HTML -->
+<div id="deletarAtividadeModal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<form>
+				<div class="modal-header">						
+					<h4 class="modal-title">Deletar Atividade</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				</div>
+				<div class="modal-body">					
+					<p>Tem certeza de que deseja excluir estes registros?</p>
+					<p class="text-warning"><small>Essa ação não pode ser desfeita.</small></p>
+				</div>
+				<div class="modal-footer">
+					<input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar">
+					<input type="submit" class="btn btn-danger" value="Deletar">
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+  
+
+</body>
+</html>
