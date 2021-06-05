@@ -1,6 +1,7 @@
 {
     "CadastroTutor": [{
         "id": "1",
+        "id_avatar": "av-1",
         "nome": "Nome Completo",
         "dtNs": "Data de nascimento",
         "email": "Email",
