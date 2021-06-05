@@ -37,10 +37,12 @@
   }
 
 
-  .rounded .btn {
+  .rounded .btn 
+  {
     width: 285px;
     color: #000000 !important;
     background-color: #6c757d38 !important;
+    border-radius: 20px !important;
   }
 
   .progressoAluno
@@ -61,13 +63,26 @@
     text-align: center;
   }
 
-  .graphicssProgresso
-  {
-    clear: both;
-    overflow: auto;
-    background-color: #edeeff;
-    font-size: 20px;
-    color: #dcac61;
-    display: flex;
-    
-  }
+  .graficos1
+{
+    background: #EFEEFF;
+}
+ .progress
+ {
+   width: 260px;
+   background-color: #FFFFFF;
+   border-radius: 10px !important;
+ }
+
+ .bg-success 
+ {
+  background-color: #06D930!important;
+  border-radius: 10px !important;
+}
+
+ .nomeDoAluno {
+  font-size: 25px;
+  font-family: "Normal", Tahoma, Geneva, Verdana, sans-serif;
+  color: #EFA923;
+}
+
