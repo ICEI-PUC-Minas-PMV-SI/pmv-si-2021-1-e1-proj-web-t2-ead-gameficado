@@ -1,45 +1,13 @@
 {
-  "CadastroTutor": [
-    {
-      "id": "1",
-      "id_avatar": "av-1",
-      "nome": "Nome Completo",
-      "dtNs": "Data de nascimento",
-      "email": "Email",
-      "celular": "Celular",
-      "prof": "Profissão",
-      "cidade": "Cidade",
-      "estado": "Estado",
-      "CriTu": "Criança/Tutor",
-      "senha": "Senha"
-    },
-    [
-      {
-        "id": "1",
-        "id_avatar": "av-1",
-        "nome": "Cleverson Rocha",
-        "dtNs": "10/07/1978",
-        "email": "cleversoncr@gmail.com",
-        "celular": "31 997361978",
-        "prof": "Analista de Combinatividade Jr.",
-        "cidade": "Belo Horizonte",
-        "estado": "MG",
-        "CriTu": "Jhonny Samuel",
-        "senha": "12345678"
-      }
-    ],
-    [
-      {
-        "nome": "Rocha",
-        "dtNs": "10/07/1978",
-        "email": "cleversoncr@gmail.com",
-        "celular": "31 997361978",
-        "prof": "Analista de Combinatividade Jr.",
-        "cidade": "Belo Horizonte",
-        "estado": "MG",
-        "CriTu": "Jhonny Samuel",
-        "senha": "12345678"
-      }
-    ]
-  ]
+    "CadastroTutor": [{
+        "nome": "Nome Completo",
+        "dtNs": "Data de nascimento",
+        "email": "Email",
+        "celular": "Celular",
+        "prof": "Profissão",
+        "cidade": "Cidade",
+        "estado": "Estado",
+        "CriTu": "Criança/Tutor",
+        "senha": "Senha"
+    }]
 }
