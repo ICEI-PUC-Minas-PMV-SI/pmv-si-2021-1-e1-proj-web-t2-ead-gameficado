@@ -25,16 +25,24 @@
   }
 
 .rounded {
-  float: right !important;
-  border-radius: 40px !important;
-  background: #dedede !important;
-  padding: 10px !important;
-  width: 1147px !important;
-  height: 299px !important;
-  margin-top: 15px !important;
-  margin-bottom: 15px !important;
-  margin-right: 15px !important;
-  display: flex;
+  float: right;
+  border-radius: 50px !important;
+  background: #dedede ;
+  padding: 30px 150px;
+  width: 100%;
+  height: 299px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  }
+
+
+  .rounded .btn 
+  {
+    width: 285px;
+    color: #000000 !important;
+    background-color: #6c757d38 !important;
+    border-radius: 20px !important;
   }
 
   .progressoAluno
@@ -55,16 +63,26 @@
     text-align: center;
   }
 
-  .graficosAluno
-  {
-    clear: both;
-    overflow: auto;
-    background-color: #EFEEFF;
-  }
+  .graficos1
+{
+    background: #EFEEFF;
+}
+ .progress
+ {
+   width: 260px;
+   background-color: #FFFFFF;
+   border-radius: 10px !important;
+ }
 
-  .graficosAtividades
-  {
-    clear: both;
-    overflow: auto;
-    background-color: #C3A7FA;
-  }
+ .bg-success 
+ {
+  background-color: #06D930!important;
+  border-radius: 10px !important;
+}
+
+ .nomeDoAluno {
+  font-size: 25px;
+  font-family: "Normal", Tahoma, Geneva, Verdana, sans-serif;
+  color: #EFA923;
+}
+

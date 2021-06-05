@@ -9,12 +9,12 @@
   <link rel="stylesheet" href="styleAreaTutor.css">
   <integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
-    <title>EaD Gamificado</title>
+    <title>EaD Gamificado - Área do Tutor</title>
 
 </head>
 
 <body>
- 
+
   <div class="clearfix" style="background-color: #c3a7fa; border-bottom: #717171 solid 1px" ;>
 
     <div id="logo">
@@ -27,60 +27,166 @@
 
   </div>
 
-  <div class="areaTutor">
+  <div class="container-fluid">
     <div class="row">
-
+      <div class="col-md-3">
         <div class="personaTutor">
           <img src="img/PersonaTutor.svg" width="333" height="333" style="vertical-align: middle; margin: 0px 50px" />
         </div>
-
+      </div>
+      <div class="col-md-2">
         <div class="nomeTutor">
           <p class="text-md-left" style="vertical-align: middle; margin: 115px 50px"><strong>João</strong></p>
         </div>
+      </div>
+      <div class="col-md-7">
+        <div class="rounded ">
 
-        <div class="col-sm">
-
-            <div class="rounded">
-
-              <div class="col-sm">
-                <img src="img/CadastrarAluno.svg" width="40" height="40" style="vertical-align: middle; margin: 0px 5px" />
-                <button type="button" class="btn btn-secondary btn-lg" style="vertical-align: middle; margin: 30px 20px">CADASTRAR DE ALUNO</button>
-                <img src="img/GrupoDeAlunos.svg" width="40" height="40" style="vertical-align: middle; margin: 0px 5px" />
-                <button type="button" class="btn btn-secondary btn-lg" style="vertical-align: middle; margin: 15px 20px">GRUPO DE ALUNOS</button>
-              </div>
-
-              <div class="col-sm">
-                <img src="img/AvaliarAtividade.svg" width="40" height="40" style="vertical-align: middle; margin: 0px 5px" />
-                <button type="button" class="btn btn-secondary btn-lg"style="hor-align: middle; margin: 200px 0px">
-                  <div class="row justify-content-center align-items-center">AVALIAR ATIVIDADES</button>
-              </div>
-
-              <div class="col-sm">
-                <img src="img/CadastrarAtividades.svg" width="40" height="40" style="vertical-align: middle; margin: 0px 20px" />
-                <button type="button" class="btn btn-secondary btn-lg" style="vertical-align: middle; margin: 30px -20px">CADASTRAR DE ATIVIDADES</button>
-                <img src="img/Cronograma.svg" width="40" height="40" style="vertical-align: middle; margin: 0px 20px" />
-                <button type="button" class="btn btn-secondary btn-lg" style="vertical-align: middle; margin: 15px -20px">CRONOGRAMA</button>
-              </div>
-
+          <div class="row justify-content-md-center my-4">
+            <div class="col-md"><img src="img/CadastrarAluno.svg" width="40" height="40" />
+              <button type="button" class="btn btn-lg">CADASTRAR ALUNO</button></div>
+              <div class="col-md-auto"></div>
+            <div class="col-md text-right">
+              <button onclick="document.location='cadastroAtividade.html'" type="button" class="btn btn-lg">CADASTRAR ATIVIDADES</button>
+              <img src="img/CadastrarAtividades.svg" width="40" height="40">
             </div>
-
+          </div>
+          <div class="row justify-content-md-center my-4">
+            <div class="col-md">
+              <img src="img/GrupoDeAlunos.svg" width="40" height="40" />
+              <button type="button" class="btn btn-lg">GRUPO DE ALUNOS</button>
+            </div>
+            <div class="col-md-auto"></div>
+            <div class="col-md text-right"><button type="button" class="btn btn-lg">CRONOGRAMA</button>
+              <img src="img/Cronograma.svg" width="40" height="40" />
+            </div>
+          </div>
+          <div class="row justify-content-md-center my-4">
+            <div class="col-md-auto">
+              <img src="img/AvaliarAtividade.svg" width="40" height="40" />
+              <button type="button" class="btn btn-lg">
+                <div class="row justify-content-center align-items-center">AVALIAR ATIVIDADES
+              </button>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
-</div>
+  </div>
 
 
-<div class="progressoAluno">
+  <div class="progressoAluno">
+    <div class="progressoDoAluno" style="vertical-align: middle; margin: 0px 0px">Progresso do Aluno
+    <img src="img/Progresso.svg" width="60"/>
+    </div>
+  </div>
+    
+<div class=graficos1>
+  <div class="container-fluid">
 
-    <div class="progressoDoAluno"style="vertical-align: middle; margin: 0px 0px">Progresso do Aluno
+    <div class="row ">
+      <div class="col-sm">
+        <div class="nomeDoAluno">
+          <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Gustavo</strong></p>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="nomeDoAluno">
+          <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Mariana</strong></p>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="nomeDoAluno">
+          <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Maria</strong></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div class="row ">
+      <div class="col-sm">
+        <div class="progress" style="margin: 5px 10px 10px 10px">
+          <div class="progress-bar bg-success" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="progress" style="margin: 5px 10px 10px 10px">
+          <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="progress" style="margin: 5px 10px 10px 10px">
+          <div class="progress-bar bg-success" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+      </div>
     </div>
 
+  <div class="row ">
+    <div class="col-sm">
+      <div class="nomeDoAluno">
+        <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Ana Carolina</strong></p>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="nomeDoAluno">
+        <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>João</strong></p>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="nomeDoAluno">
+        <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>André</strong></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row ">
+    <div class="col-sm">
+      <div class="progress" style="margin: 5px 10px 30px 10px">
+        <div class="progress-bar bg-success" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="progress" style="margin: 5px 10px 30px 10px">
+        <div class="progress-bar bg-success" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="progress" style="margin: 5px 10px 30px 10px">
+        <div class="progress-bar bg-success" role="progressbar" style="width: 15%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pie"></div>
+
 </div>
 
-<div class="graficosAluno">
-  
-</div>
 
-<div class="graficosAtividades">
-</div>
+
+
+
+
+  <!-- <
+
+
+  <div class="graphicosProgresso">
+    <div>
+      <span style="margin-left: 20px; margin-top: 20px;">Gustavo</span><br>
+      <progress id="file" value="70" max="100" style="margin-left: 20px; margin-bottom: 20px;"></progress>
+    </div>
+    <div>
+      <span style="margin-left: 20px; margin-top: 20px;">Mariana</span><br>
+      <progress id=" file" value="50" max="100" style="margin-left: 20px; margin-bottom: 20px;"></progress>
+    </div>
+    <div>
+      <span style="margin-left: 20px; margin-top: 20px;">Maria</span><br>
+      <progress id="file" value="30" max="100" style="margin-left: 20px; margin-bottom: 20px;"></progress>
+    </div>
+  </div>
+
+  </div>
+
+  <div class="graficosAtividades">
+  </div>-->
 
 </body>
