@@ -1,0 +1,70 @@
+#logo {
+    padding-left: 15px;
+    padding-top: 5px;
+    float: left;
+}
+
+#cabecalho {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em; 
+    color: #3e1ee1;
+    margin-top: 25px;
+    padding-right: 20px;
+    float: right;
+}
+
+.areaDoTutor
+{
+    background: #EFEEFF;
+}
+
+.nomeTutor {
+    font-size: 50px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #a182d4;
+  }
+
+.rounded {
+  float: right !important;
+  border-radius: 40px !important;
+  background: #dedede !important;
+  padding: 10px !important;
+  width: 1147px !important;
+  height: 299px !important;
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+  margin-right: 15px !important;
+  display: flex;
+  }
+
+  .progressoAluno
+  {
+    clear: both;
+    overflow: auto;
+    background-color: #C3A7FA;
+  }
+
+  .progressoDoAluno
+  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: #6C559A;
+    margin-top: 20px;
+    padding-right: 30px;
+    float: center;
+    text-align: center;
+  }
+
+  .graficosAluno
+  {
+    clear: both;
+    overflow: auto;
+    background-color: #EFEEFF;
+  }
+
+  .graficosAtividades
+  {
+    clear: both;
+    overflow: auto;
+    background-color: #C3A7FA;
+  }
