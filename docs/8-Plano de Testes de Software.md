@@ -6,10 +6,8 @@ Plano de Testes
 1.Requisitos a Testar - Detalhamento da abordagem de teste    
   
 A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não funcionais) que foram identificados como alvos de teste. Essa lista representa o que será testado.   
-![1](https://user-images.githubusercontent.com/81273082/120940755-385f7800-c6f5-11eb-823e-4d74f9402372.JPG)   
-![2](https://user-images.githubusercontent.com/81273082/120940757-3e555900-c6f5-11eb-83c9-29dd714b2b59.JPG)   
-![3](https://user-images.githubusercontent.com/81273082/120940760-41e8e000-c6f5-11eb-9a33-2b4e1937ae62.JPG)   
-![4](https://user-images.githubusercontent.com/81273082/120940766-457c6700-c6f5-11eb-81d9-77751de139b7.JPG) 
+![Plano de Testes- EAD GAMIFICADO](https://user-images.githubusercontent.com/81273082/120941194-bb81cd80-c6f7-11eb-8284-6293c7c43142.jpg)
+
 
 
 Tipo do Teste: 	Funcional 
