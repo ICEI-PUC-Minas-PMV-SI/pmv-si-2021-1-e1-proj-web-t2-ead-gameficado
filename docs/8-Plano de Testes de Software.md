@@ -8,6 +8,7 @@ Plano de Testes
 A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não funcionais) que foram identificados como alvos de teste. Essa lista representa o que será testado. 
 
 
+
 Tipo do Teste: 	Funcional
 Subtipo de Teste: 	Requisitos
 Objetivo do Teste: 	Testar a funcionalidade de cadastro de pessoas responsáveis quanto a
