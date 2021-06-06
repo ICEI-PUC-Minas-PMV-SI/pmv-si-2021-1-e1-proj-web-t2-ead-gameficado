@@ -3,8 +3,8 @@
 Plano de Testes
 
 
-1.	Requisitos a Testar- Detalhamento da abordagem de teste
-
+1.Requisitos a Testar - Detalhamento da abordagem de teste    
+  
 A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não funcionais) que foram identificados como alvos de teste. Essa lista representa o que será testado. 
 
 
@@ -90,9 +90,13 @@ Subtipo de Teste: 	Performace
 Objetivo do Teste: 	Verificar se o tempo de carregamento das páginas e o processamento de requisições dos usuários está abaixo dos 3 segundos.    
 Requisitos que motivaram esse teste: 	RNF-004 – O site deve ter carregamento rápido e processar requisições do usuário em no máximo 3s.
 
+    
+  
+    
+  
+2.Estratégia de Teste
   
   
-2.	Estratégia de Teste
 2.1	Tipos de Teste
 
 
@@ -100,7 +104,7 @@ Requisitos que motivaram esse teste: 	RNF-004 – O site deve ter carregamento r
 
 
 
-3.Ambiente de Teste- Definições do Ambiente de Teste
+3.Ambiente de Teste -Definições do Ambiente de Teste  
 
 • Teremos testes unitários desenvolvidos individualmente por desenvolvedores de cada pagina, com um volume pequeno de dados, faremos testes de integração baseados em manuais de testes.  
 • Teremos testes em toda a aplicação com os desenvolvedores de cada pagina com um volume grande de dados pequenos, serão utilizados dados reais ou criados na hora, também teremos testes de aceitação com toda a aplicação ,de testadores e diferentes perfis usuários com um volume pequeno de dados reais ou fictícios.  
@@ -110,7 +114,8 @@ Requisitos que motivaram esse teste: 	RNF-004 – O site deve ter carregamento r
 
 4.Programação dos Tesstes- Objetivos e Prioridades
 
-As prioridades no sistema são:  
+As prioridades no sistema são: 
+  
 • O sistema deve possibilitar ao usuário administrador a realização de cadastros e gerenciamentos de cadastros.   
 • O sistema deve possibilitar ao usuário comum a realização de cadastro.    
 • O sistema deve possibilitar ao usuário administrador o gerenciamento das funcionalidades como gerenciar os cadastros, tarefas, premiações, cronogramas de estudos, grupos, rankings, avaliações e pontuações.     
