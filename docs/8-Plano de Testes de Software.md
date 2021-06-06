@@ -8,14 +8,14 @@ A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não f
 ![Plano de Testes- EAD GAMIFICADO](https://user-images.githubusercontent.com/81273082/120941194-bb81cd80-c6f7-11eb-8284-6293c7c43142.jpg)
 
 
-
    
   
 # 2.Ferramentas de Teste
   
+  As seguintes ferramentas serão empregadas neste projeto de testes:
   
-
-
+•	VSCode (Editor de Código).
+•	HTML5, CSS e JavaScript (Tecnologias).
 
 
 # 3.Ambiente de Teste 
