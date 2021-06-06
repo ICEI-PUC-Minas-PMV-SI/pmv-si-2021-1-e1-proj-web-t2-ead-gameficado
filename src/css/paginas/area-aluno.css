@@ -1,0 +1,56 @@
+.nome-aluno>span {
+    font-size: 25px;
+    background-color: blueviolet;
+    padding: 5px 20px;
+    border-radius: 25px;
+    color: #fff;
+}
+
+.dados-aluno {
+    text-align: left;
+    padding: 20px 40px;
+    font-size: 24px;
+}
+
+.dados-aluno p {
+    font-weight: 700;
+    margin: 0;
+}
+
+
+.dados-aluno span {
+    font-weight: 400;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.chat-icon img{
+    float: right;
+}
+
+.ranking-titulo h4 {
+    position: relative;
+}
+
+.ranking-titulo span {
+    position: absolute;
+    margin: 10px;
+    color: #ef037f;
+}
+
+.ranking-titulo img {
+    margin-left: -100px;
+}
+
+.progress {
+    height: 1.5rem;
+    border-radius: .7rem;
+}
+
+.progress .progress-bar {
+    border-radius: 20px;
+}
