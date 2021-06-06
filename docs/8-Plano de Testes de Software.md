@@ -1,7 +1,8 @@
 # Plano de Testes de Software
 
 
-# 1.Requisitos a Testar - Detalhamento da abordagem de teste    
+# 1.Requisitos a Testar 
+*Detalhamento da abordagem de teste:*    
   
 A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não funcionais) que foram identificados como alvos de teste. Essa lista representa o que será testado.   
 ![Plano de Testes- EAD GAMIFICADO](https://user-images.githubusercontent.com/81273082/120941194-bb81cd80-c6f7-11eb-8284-6293c7c43142.jpg)
@@ -17,7 +18,8 @@ A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não f
 
 
 
-# 3.Ambiente de Teste -Definições do Ambiente de Teste  
+# 3.Ambiente de Teste 
+*Definições do Ambiente de Teste:* 
 
 • Teremos testes unitários desenvolvidos individualmente por desenvolvedores de cada pagina, com um volume pequeno de dados, faremos testes de integração baseados em manuais de testes.  
 • Teremos testes em toda a aplicação com os desenvolvedores de cada pagina com um volume grande de dados pequenos, serão utilizados dados reais ou criados na hora, também teremos testes de aceitação com toda a aplicação ,de testadores e diferentes perfis usuários com um volume pequeno de dados reais ou fictícios.  
@@ -25,9 +27,8 @@ A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não f
 
 
 
-# 4.Programação dos Testes- Objetivos e Prioridades
-
-As prioridades do sistema são: 
+# 4.Programação dos Testes 
+*Objetivos e Prioridades:*
   
 • O sistema deve possibilitar ao usuário administrador a realização de cadastros e gerenciamentos de cadastros.   
 • O sistema deve possibilitar ao usuário comum a realização de cadastro.    
