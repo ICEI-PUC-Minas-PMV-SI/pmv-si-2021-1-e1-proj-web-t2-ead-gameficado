@@ -2,7 +2,6 @@
 
 Plano de Testes
 
-EAD Gamificado
 
 1.	Requisitos a Testar- Detalhamento da abordagem de teste
 
