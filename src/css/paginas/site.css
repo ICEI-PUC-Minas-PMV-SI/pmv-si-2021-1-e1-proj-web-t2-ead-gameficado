@@ -1,0 +1,41 @@
+body {
+    font-family: 'Varela Round', serif;
+  }
+
+.ead-navbar {
+    /* background-color: #8a2be280; */
+    color: white;
+    padding: 0 30px;
+    background-color: #7952b3c4;
+    box-shadow: 0 1px 20px 0 rgb(46 61 73 / 20%);
+}
+
+.ead-titulo-area {
+    font-size: 1.5em;
+}
+
+.dropdown-toggle::after {
+    color: white;
+}
+
+.lego-image {
+    background-image: url("../../images/bg.png");
+    background-color: rgba(255,255,255,0.9);
+    background-blend-mode: lighten;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
+.titulo-progresso {
+    font-size: 26px;
+    font-weight: 500;
+    color: #ef037f;
+    text-align: right;
+
+}
+
+.bg-success {
+    background-color: #0be94f!important;
+}

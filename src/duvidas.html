@@ -19,6 +19,7 @@
 
     <link rel="stylesheet" href="css/ionicons.min.css">
 
+
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -44,41 +45,75 @@
         </div>
     </nav>
     <!-- Menu -->
+    <!-- Conteúdo da página-->
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_3.jpg');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center">
                 <div class="col-md-9 ftco-animate text-center">
-                    <h1 class="mb-2 bread">Faça seu login</h1>
-                    <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Login <i class="ion-ios-arrow-forward"></i></span></p>
+                    <h1 class="mb-2 bread">Dúvidas</h1>
+                    <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Dúvidas <i class="ion-ios-arrow-forward"></i></span></p>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
+    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-color: rgb(239, 238,255);" data-stellar-background-ratio="0.5">
         <div class="container">
-            <div class="row d-flex align-items-stretch no-gutters">
-                <div class="col-md-6 p-4 p-md-5 order-md-last bg-light">
-                    <!-- redireciona para a tela de logado -->
-                    <form action="#">
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Seu usuário">
+            <div class="row justify-content-center">
+                <div class="col-md-6 py-5 px-md-5 bg-primary">
+                    <div class="heading-section heading-section-white ftco-animate mb-5">
+                        <span class="subheading">
+                            Tire suas dúvidas</span>
+                            <h2 class="mb-4">Dúvidas</h2>
+                            <p>Nós envie sua dúvida, é super rápido e fácil.</p>
+                    </div>
+                    <form action="#" class="appointment-form ftco-animate">
+                        <div class="d-md-flex">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Nome">
+                            </div>
+                            <div class="form-group ml-md-4">
+                                <input type="text" class="form-control" placeholder="Sobrenome">
+                            </div>
                         </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Sua senha">
+                        <div class="d-md-flex">
+                            <div class="form-group">
+                                <div class="form-field">
+                                    <div class="select-wrap">
+                                        <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                        <select name="" id="" class="form-control">
+                                            <option value="">Selecione sua atividade</option>
+                                            <option value="">Atividade 1</option>
+                                            <option value="">Atividade 2</option>
+                                            <option value="">Atividade 3</option>
+                                            <option value="">Atividade 4</option>
+                                            <option value="">Atividade 5</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group ml-md-4">
+                                <input type="text" class="form-control" placeholder="E-mail">
+                            </div>
                         </div>
-                        <div class="form-group">
-                            <input type="submit" value="Entrar" class="btn btn-primary py-3 px-5">
+                        <div class="d-md-flex">
+                            <div class="form-group">
+                                <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Mensagem"></textarea>
+                            </div>
+                            <div class="form-group ml-md-4">
+                                <input type="submit" value="Tirar Dúvida" class="btn btn-secondary py-3 px-4">
+                            </div>
                         </div>
                     </form>
-                </div>
-                <div class="col-md-6 d-flex align-items-stretch" style="background-image: url(images/image_1.jpg);">
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- Conteúdo da página-->
+
     <footer class="ftco-footer ftco-bg-dark ftco-section">
         <div class="container">
             <div class="row">
@@ -86,12 +121,14 @@
 
                     <p>
                         Copyright &copy;
-                        <script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Desenvolvido <i class="icon-heart" aria-hidden="true"></i> por <a href="thainara.developer@gmail.com" target="_blank">Thainara</a>
+                        <script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Desenvolvido <i class="icon-heart" aria-hidden="true"></i> por <a href="thaaiinaaraap@gmail.com" target="_blank">Thainara</a>
                     </p>
                 </div>
             </div>
         </div>
     </footer>
+
+
 
     <!-- loader -->
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
@@ -112,6 +149,10 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
-
+    <script>
+        if (localStorage.getItem("usuario")) {
+            location.href = "ead.html";
+        }
+    </script>
 </body>
 </html>
