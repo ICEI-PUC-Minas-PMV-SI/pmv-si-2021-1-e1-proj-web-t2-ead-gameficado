@@ -86,3 +86,66 @@ font-family: "Normal", Tahoma, Geneva, Verdana, sans-serif;
 color: #EFA923;
 }
 
+.graficos2
+{
+  background: #C3A7FA;
+}
+
+.progress .progress-bar {
+border-radius: 20px;
+}
+
+#donutchart1{
+width:25%;
+float:left;
+}
+
+#donutchart2{
+width:25%;
+float:left;
+}
+#donutchart3{
+width:25%;
+float:left;
+}
+
+#donutchart4{
+width:25%;
+float:left;
+}
+
+.nomeMateria
+{
+font-size: 20px;
+font-family: "Open Sans", Tahoma, Geneva, Verdana, sans-serif;
+color: #030303;
+text-align: center;
+}
+
+.decorativo1
+{
+float: right;
+margin: 145px 0px 0px 0px;
+}
+
+.pontoChat
+{
+float: right;
+margin: 20px 0px 0px 0px;
+}
+
+.rounded2 {
+border-radius: 0px;
+background: #9E6FB0 ;
+padding: 10px;
+width: 159px;
+
+}
+
+.textoMedia
+{
+text-align: center;
+font-size: 30px;
+font-family: "Open Sans", Tahoma, Geneva, Verdana, sans-serif;
+color: #FFFFFF;
+}
