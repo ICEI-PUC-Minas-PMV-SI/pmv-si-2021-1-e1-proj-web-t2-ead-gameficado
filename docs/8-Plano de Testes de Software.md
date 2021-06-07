@@ -14,8 +14,8 @@ A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não f
   
   As seguintes ferramentas serão empregadas neste projeto de testes:
   
-•	VSCode (Editor de Código).
-•	HTML5, CSS e JavaScript (Tecnologias).
+•	VSCode (Editor de Código).  
+•	HTML5, CSS e JavaScript (Tecnologias).  
 
 
 # 3.Ambiente de Teste 
