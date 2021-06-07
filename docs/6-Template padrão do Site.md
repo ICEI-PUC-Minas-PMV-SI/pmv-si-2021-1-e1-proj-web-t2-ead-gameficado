@@ -2,7 +2,7 @@
 
 # Template padrão do site
 
-Para padrão de Layout, foi adotado o previsto no projeto de interface, elaborado na seção 3, contendo um cabeçalho e o conteúdo, conforme visto na figura 13 a seguir.
+Para padrão de Layout, foi adotado o previsto no projeto de interface, elaborado na seção 3, contendo um cabeçalho e o conteúdo, conforme visto na Figura 13 a seguir.
 ![Figura 13 - Tela de Aluno ](img/figura13.PNG)
 </center>Figura 13 – Exemplo de Padrão e Layout</center>
 
@@ -103,7 +103,7 @@ Tela com calendário para cadastramento de atividades e premiações em uma linh
 
 # Tela de Área do Aluno
 
-Tela contendo progresso do aluno, ranking e botões para ação de estudar.
+Tela contendo progresso do aluno, ranking e botão para a ação de estudar.
 
 ![Figura 23 – Área do Aluno ](img/figura23.PNG)
 </center>Figura 23 – Tela de Área do Aluno</center>
