@@ -7,6 +7,7 @@ A tela de cadastramento de Tutor(que também é o responsável) apresenta meios 
 
 ![Figura 17 – Cadastro de Tutor ](img/figura17.PNG)
 </center>Figura 25 – Tela de Cadastro de Tutor</center>
+
 ![Figura 20 – Área do Tutor ](img/figura20.PNG)
 </center>Figura 26 – Tela de Área do Tutor</center>
 
@@ -62,7 +63,30 @@ RF-010	Conversar via chat ao vivo
 ### Instruções de Acesso
 
 * 1 - Se não for cadastrado, siga os passos de cadastramento do tutor, se já for cadastrado, logue na plataforma;
+* 2 - Faça Login;
 * 2 -  Entre a Área do Tutor;
-* 3 - Se não for cadastrado, clique no botão e cadastre um novo Aluno, preencha os dados e os registre;
+* 3 - Se não tiver o aluno cadastrado, clique no botão e "Cadastre um novo Aluno", preencha os dados e os registre;
 * 3 - Na Área do Tutor, clique na opção desejada para gerenciar algum tipo de atividade relacionada ao aluno;
 * 3 - Preencha os dados de cadastro dentro da área em questão e os salve.
+
+## Registrar e Logar no Sistema Web com usuário e senha – (RF-012)
+
+A tela Login apresenta meios de permitir acesso ao sistema de usuário com login e senha.
+
+![Figura 18 – Login](img/figura18.PNG)
+</center>Figura 26 – Tela de Login</center>
+
+### Requisitos atentidos
+
+RF-012 - Registrar e Logar no Sistema Web com usuário e senha
+
+### Artefatos da Funcionalidade 
+
+### Estrutura de dados
+
+### Instruções de Acesso
+
+* 1 - Abra o navegador e informe o endereço da página;
+* 2 - Na barra de navegação, clique em login;
+* 3 - Preencha os dados de usuário e senha e logue no sistema.
+
