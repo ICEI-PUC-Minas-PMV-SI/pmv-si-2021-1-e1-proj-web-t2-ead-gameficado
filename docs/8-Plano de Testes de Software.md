@@ -40,6 +40,7 @@ A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não f
 
 # 5.Casos de Teste
 
-![5 casos de testes](https://user-images.githubusercontent.com/81273082/120945182-7cab4200-c70e-11eb-86cf-5337e8f2d0a1.png)
+![5 casos de testes](https://user-images.githubusercontent.com/81273082/120945240-aa908680-c70e-11eb-9d40-b1e8690c1876.png)
+
 
 
