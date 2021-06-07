@@ -18,7 +18,8 @@ O template criado é composto pelas seguintes telas:
 * Tela de Cadastro de Atividades;
 * Tela de Cronograma;
 * Tela de Área do Aluno;
-*Tela de Trilha.
+* Tela de Trilha;
+* Tela de Avaliação do Aluno.
 
 A responsividade segue o padrão do Bootstrap.
 
@@ -114,3 +115,11 @@ Tela contendo trilha com atividades feitas e a serem feitas.
 
 ![Figura 24 –  Trilha ](img/figura24.PNG)
 </center>Figura 24 – Tela de Estudos tipo Trilha</center>
+
+# Tela de Avaliação do Aluno
+
+Tela contendo meios de validar a avaliação do aluno em uma atividade.
+
+![Figura 25 –  Avaliar Atividades ](img/figura25.PNG)
+</center>Figura 25 – Tela de Avaliação Atividades</center>
+
