@@ -13,9 +13,7 @@
     text-align: center;
 }
 
-.formulario {
-    float: left;
-}
+
 
 .escolha {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -30,3 +28,13 @@
 .escolhaAvatar {
     border-color: #3e1ee1;
 }
+
+.copyright{
+    text-align: center;
+}
+
+.figure{
+    float: right;
+    text-align: right  
+}  
+
