@@ -35,8 +35,8 @@ Caso opte por “Grupo de Alunos” terá a possibilidade de acessar o chat para
 Caso venha a optar por “Cronograma”, poderá cadastrar as datas de entrega e qualquer outra particularidade relacionada a sua função como Tutor.
 Se escolher “Avaliar atividades, terá como escolher se as respostas dadas pelo aluno estão conforme o que era o esperado marcando-a como correta ou incorreta.
 Caso escolha o link do chat de bate-papo, será direcionado para o Whatsapp para conversar com a criança pela qual é responsável.
-Se o usuário optar, ao invés da tela da “Área do Tutor” pela “Área do aluno”, ele será direcionado a tela do aluno, lá ele poderá ver o progresso como aluno em cada matéria, consultar o ranking de alunos e seus progressos e acessar o botão “Estudar” ou o botão do chat por Whatsapp.
-Caso o usuário selecione o botão estudar, será direcionado para uma tela em que constam mapas de matérias tipo trilha de matérias, no qual poderá realizar atividades até chegar a sua premiação (conforme cadastramento feito pelo tutor).
+Se o usuário optar, ao invés da tela da “Área do Tutor”, pela “Área do aluno”, ele será direcionado a tela do aluno, lá ele poderá ver o progresso como aluno em cada matéria, consultar o ranking de alunos e seus progressos e acessar o botão “Estudar” ou o botão do chat por Whatsapp.
+Caso o usuário selecione o botão estudar, será direcionado para uma tela em que constam mapas de matérias tipo trilha, no qual poderá realizar atividades até chegar a sua premiação (conforme cadastramento feito pelo tutor).
 Se ele optar por acesso ao botão de chat por Whatsapp, será direcionado para uma conversa com o seu Tutor responsável.
 Há ainda uma opção para caso o usuário queira cadastrar um usuário, no qual, ao invés de escolher a tela de aluno ou de tutor, ele seleciona o link de “Cadastrar Tutor”.
 
