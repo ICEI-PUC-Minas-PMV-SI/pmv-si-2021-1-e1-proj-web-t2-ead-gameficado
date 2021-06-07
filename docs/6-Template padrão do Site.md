@@ -121,5 +121,5 @@ Tela contendo trilha com atividades feitas e a serem feitas.
 Tela contendo meios de validar a avaliação do aluno em uma atividade.
 
 ![Figura 25 –  Avaliar Atividades ](img/figura25.PNG)
-</center>Figura 25 – Tela de Avaliação Atividades</center>
+</center>Figura 25 – Tela de Avaliação de Atividades</center>
 
