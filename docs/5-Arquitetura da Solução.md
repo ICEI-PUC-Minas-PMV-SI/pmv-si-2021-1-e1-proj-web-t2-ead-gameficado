@@ -38,7 +38,7 @@ Caso escolha o link do chat de bate-papo, será direcionado para o Whatsapp para
 Se o usuário optar, ao invés da tela da “Área do Tutor” pela “Área do aluno”, ele será direcionado a tela do aluno, lá ele poderá ver o progresso como aluno em cada matéria, consultar o ranking de alunos e seus progressos e acessar o botão “Estudar” ou o botão do chat por Whatsapp.
 Caso o usuário selecione o botão estudar, será direcionado para uma tela em que constam mapas de matérias tipo trilha de matérias, no qual poderá realizar atividades até chegar a sua premiação (conforme cadastramento feito pelo tutor).
 Se ele optar por acesso ao botão de chat por Whatsapp, será direcionado para uma conversa com o seu Tutor responsável.
-A ainda uma opção para caso o usuário queira cadastrar um usuário, no qual, ao invés de escolher a tela de aluno ou de tutor, ele seleciona o link de “Cadastrar Tuto”.
+A ainda uma opção para caso o usuário queira cadastrar um usuário, no qual, ao invés de escolher a tela de aluno ou de tutor, ele seleciona o link de “Cadastrar Tutor”.
 
 ![UserFLow](img/figura10.PNG)
 <center>Figura 11 – Fluxo de Usuário</center>
