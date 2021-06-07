@@ -1,236 +1,264 @@
 <link href="../css/paginas/area-tutor.css" rel="stylesheet">
 <link href="../css/bootstrap.min.css">
-<script src="../js/paginas/areaTutor.js"></script>
-<script src="../js/loader.js"></script>
-<integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous"></integrity>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+<style>
+    .whatsapp-link {
+        float: right;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 1px 1px 2px #888;
+        z-index: 1000;
+    }
 
-  <div id="titulo" class="d-none">Área do tutor</div>
+    .fa-whatsapp {
+        margin-top: 16px;
+    }
+</style>
+</integrity>
 
-  <div class="container-fluid">
+<div id="titulo" class="d-none">Área do tutor</div>
+
+<div class="container-fluid">
     <div class="row">
-      <div class="col-md-3">
-        <div class="personaTutor">
-          <img src="../images/PersonaTutor.svg" width="333" height="333"
-            style="vertical-align: middle; margin: 0px 50px" />
+        <div class="col-md-3">
+            <div class="personaTutor">
+                <img src="../images/PersonaTutor.svg" width="333" height="333"
+                    style="vertical-align: middle; margin: 0px 50px" />
+            </div>
         </div>
-      </div>
-      <div class="col-md-2">
-        <div class="nomeTutor">
-          <p class="text-md-left" style="vertical-align: middle; margin: 115px 50px"><strong>João</strong></p>
+        <div class="col-md-2">
+            <div class="nomeTutor">
+                <p class="text-md-left" style="vertical-align: middle; margin: 115px 50px"><strong>João</strong></p>
+            </div>
         </div>
-      </div>
-      <div class="col-md-7">
-        <div class="rounded">
+        <div class="col-md-7">
+            <div class="rounded">
 
-          <div class="row justify-content-md-center my-4">
-            <div class="col-md"><img src="../images/CadastrarAluno.svg" width="40" height="40" />
-              <button onclick="document.location='../paginas/cadastro-aluno.html'" type="button" class="btn btn-lg">CADASTRAR ALUNO</button></div>
-            <div class="col-md-auto"></div>
-            <div class="col-md text-right">
-              <button onclick="document.location='../paginas/cadastro-atividade.html'" type="button"
-                class="btn btn-lg">CADASTRAR
-                ATIVIDADES</button>
-              <img src="../images/CadastrarAtividades.svg" width="40" height="40">
+                <div class="row justify-content-md-center my-4">
+                    <div class="col-md"><img src="../images/CadastrarAluno.svg" width="40" height="40" />
+                        <button onclick="document.location='#ead-cadastro-aluno'" type="button"
+                            class="btn btn-lg">CADASTRAR ALUNO</button></div>
+                    <div class="col-md-auto"></div>
+                    <div class="col-md text-right">
+                        <button onclick="document.location='#ead-cadastro-atividade'" type="button"
+                            class="btn btn-lg">CADASTRAR
+                            ATIVIDADES</button>
+                        <img src="../images/CadastrarAtividades.svg" width="40" height="40">
+                    </div>
+                </div>
+                <div class="row justify-content-md-center my-4">
+                    <div class="col-md">
+                        <img src="../images/GrupoDeAlunos.svg" width="40" height="40" />
+                        <button type="button" class="btn btn-lg">GRUPO DE ALUNOS</button>
+                    </div>
+                    <div class="col-md-auto"></div>
+                    <div class="col-md text-right"><button onclick="document.location='#ead-cronograma'" type="button"
+                            class="btn btn-lg">CRONOGRAMA</button>
+                        <img src="../images/Cronograma.svg" width="40" height="40" />
+                    </div>
+                </div>
+                <div class="row justify-content-md-center my-4">
+                    <div class="col-md-auto">
+                        <img src="../images/AvaliarAtividade.svg" width="40" height="40" />
+                        <button type="button" onclick="document.location='#ead-avaliar-atividades'" class="btn btn-lg">
+                            <div class="row justify-content-center align-items-center">AVALIAR ATIVIDADES</div>
+                        </button>
+                    </div>
+                </div>
             </div>
-          </div>
-          <div class="row justify-content-md-center my-4">
-            <div class="col-md">
-              <img src="../images/GrupoDeAlunos.svg" width="40" height="40" />
-              <button type="button" class="btn btn-lg">GRUPO DE ALUNOS</button>
-            </div>
-            <div class="col-md-auto"></div>
-            <div class="col-md text-right"><button onclick="document.location='../paginas/cronograma.html'"
-                type="button" class="btn btn-lg">CRONOGRAMA</button>
-              <img src="../images/Cronograma.svg" width="40" height="40" />
-            </div>
-          </div>
-          <div class="row justify-content-md-center my-4">
-            <div class="col-md-auto">
-              <img src="../images/AvaliarAtividade.svg" width="40" height="40" />
-              <button type="button" class="btn btn-lg">
-                <div class="row justify-content-center align-items-center">AVALIAR ATIVIDADES</div>
-              </button>
-            </div>
-          </div>
         </div>
-      </div>
     </div>
-  </div>
+</div>
 
 
-  <div class="progressoAluno">
+<div class="progressoAluno">
     <div class="progressoDoAluno" style="vertical-align: middle; margin: 0px 0px">Progresso do Aluno
-      <img src="../images/Progresso.svg" width="60" />
+        <img src="../images/Progresso.svg" width="60" />
     </div>
-  </div>
+</div>
 
-  <div class=graficos1>
+<div class=graficos1>
     <div class="container-fluid">
 
-      <div class="row ">
-        <div class="col-sm">
-          <div class="nomeDoAluno">
-            <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Gustavo</strong></p>
-          </div>
+        <div class="row ">
+            <div class="col-sm">
+                <div class="nomeDoAluno">
+                    <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px">
+                        <strong>Gustavo</strong></p>
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="nomeDoAluno">
+                    <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px">
+                        <strong>Mariana</strong></p>
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="nomeDoAluno">
+                    <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px">
+                        <strong>Maria</strong></p>
+                </div>
+            </div>
         </div>
-        <div class="col-sm">
-          <div class="nomeDoAluno">
-            <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Mariana</strong></p>
-          </div>
-        </div>
-        <div class="col-sm">
-          <div class="nomeDoAluno">
-            <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Maria</strong></p>
-          </div>
-        </div>
-      </div>
     </div>
 
     <div class="row ">
-      <div class="col-sm">
-        <div class="progress" style="margin: 5px 10px 10px 10px">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 70%" aria-valuenow="25"
-            aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="col-sm">
+            <div class="progress" style="margin: 5px 10px 10px 10px">
+                <div class="progress-bar bg-success" role="progressbar" style="width: 70%" aria-valuenow="25"
+                    aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
         </div>
-      </div>
-      <div class="col-sm">
-        <div class="progress" style="margin: 5px 10px 10px 10px">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25"
-            aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="col-sm">
+            <div class="progress" style="margin: 5px 10px 10px 10px">
+                <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25"
+                    aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
         </div>
-      </div>
-      <div class="col-sm">
-        <div class="progress" style="margin: 5px 10px 10px 10px">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 30%" aria-valuenow="25"
-            aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="col-sm">
+            <div class="progress" style="margin: 5px 10px 10px 10px">
+                <div class="progress-bar bg-success" role="progressbar" style="width: 30%" aria-valuenow="25"
+                    aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
         </div>
-      </div>
     </div>
 
     <div class="row ">
-      <div class="col-sm">
-        <div class="nomeDoAluno">
-          <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Ana Carolina</strong></p>
+        <div class="col-sm">
+            <div class="nomeDoAluno">
+                <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>Ana
+                        Carolina</strong></p>
+            </div>
         </div>
-      </div>
-      <div class="col-sm">
-        <div class="nomeDoAluno">
-          <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>João</strong></p>
+        <div class="col-sm">
+            <div class="nomeDoAluno">
+                <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>João</strong>
+                </p>
+            </div>
         </div>
-      </div>
-      <div class="col-sm">
-        <div class="nomeDoAluno">
-          <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>André</strong></p>
+        <div class="col-sm">
+            <div class="nomeDoAluno">
+                <p class="text-md" style="vertical-align: middle; margin: 15px 0px 5px 10px"><strong>André</strong>
+                </p>
+            </div>
         </div>
-      </div>
     </div>
 
     <div class="row ">
-      <div class="col-sm">
-        <div class="progress" style="margin: 5px 10px 30px 10px">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 95%" aria-valuenow="25"
-            aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="col-sm">
+            <div class="progress" style="margin: 5px 10px 30px 10px">
+                <div class="progress-bar bg-success" role="progressbar" style="width: 95%" aria-valuenow="25"
+                    aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
         </div>
-      </div>
-      <div class="col-sm">
-        <div class="progress" style="margin: 5px 10px 30px 10px">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 80%" aria-valuenow="25"
-            aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="col-sm">
+            <div class="progress" style="margin: 5px 10px 30px 10px">
+                <div class="progress-bar bg-success" role="progressbar" style="width: 80%" aria-valuenow="25"
+                    aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
         </div>
-      </div>
-      <div class="col-sm">
-        <div class="progress" style="margin: 5px 10px 30px 10px">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 15%" aria-valuenow="25"
-            aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="col-sm">
+            <div class="progress" style="margin: 5px 10px 30px 10px">
+                <div class="progress-bar bg-success" role="progressbar" style="width: 15%" aria-valuenow="25"
+                    aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
+</div>
 
-  <div class=graficos2>
+<div class=graficos2>
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-6">
-          <img src="../images/evolution.svg" width="40" height="40" />
-          <span><strong>PROGRESSO DAS ATIVIDADES</strong></span>
-          <div class="row">
-            <div class="col-sm">
-              <div class="col-sm">
-                <div class="pizza">
-                  <div id="donutchart1"></div>
-                </div>
-              </div>
-              <div class="col-sm">
-                <div class="pizza">
-                  <div id="donutchart2"></div>
-                </div>
-              </div>
-              <div class="col-sm">
-                <div class="pizza">
-                  <div id="donutchart3"></div>
-                </div>
-              </div>
-              <div class="col-sm">
-                <div class="pizza">
-                  <div id="donutchart4"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-sm">
-              <div class="nomeMateria">
-                <span class="text"
-                  style="vertical-align: middle; margin: 0x 0px 0px 10px"><strong>Português</strong></span>
-              </div>
-            </div>
-            <div class="col-sm">
-              <div class="nomeMateria">
-                <span class="text"
-                  style="vertical-align: middle; margin: 0px 0px 0px 10px"><strong>Matemática</strong></span>
-              </div>
-            </div>
-            <div class="col-sm">
-              <div class="nomeMateria">
-                <span class="text"
-                  style="vertical-align: middle; margin: 0x 0px 0px 10px"><strong>Ciências</strong></span>
-              </div>
-            </div>
-            <div class="col-sm">
-              <div class="nomeMateria">
-                <span class="text"
-                  style="vertical-align: middle; margin: 0px 0px 0px 10px"><strong>História</strong></span>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-6">
-          <div class="row">
-            <div class="col-3">
-              <div class="decorativo1">
-                <img src="../images/posicaoMedia.svg" width="80" />
-              </div>
-            </div>
-            <div class="col-2">
-              <div class="media">
-                <div class="rounded2">
-                  <div class="textoMedia">
-                    <p class="text">MÉDIA</p>
-                    <p class="text">20%</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+        <div class="row">
             <div class="col-6">
-              <div class="pontoChat">
-                <img src="../images/sms.svg" width="200" />
-              </div>
+                <img src="../images/evolution.svg" width="40" height="40" />
+                <span><strong>PROGRESSO DAS ATIVIDADES</strong></span>
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="col-sm">
+                            <div class="pizza">
+                                <div id="donutchart1"></div>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="pizza">
+                                <div id="donutchart2"></div>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="pizza">
+                                <div id="donutchart3"></div>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="pizza">
+                                <div id="donutchart4"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="nomeMateria">
+                            <span class="text"
+                                style="vertical-align: middle; margin: 0x 0px 0px 10px"><strong>Português</strong></span>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="nomeMateria">
+                            <span class="text"
+                                style="vertical-align: middle; margin: 0px 0px 0px 10px"><strong>Matemática</strong></span>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="nomeMateria">
+                            <span class="text"
+                                style="vertical-align: middle; margin: 0x 0px 0px 10px"><strong>Ciências</strong></span>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="nomeMateria">
+                            <span class="text"
+                                style="vertical-align: middle; margin: 0px 0px 0px 10px"><strong>História</strong></span>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
+
+            <div class="col-6">
+                <div class="row">
+                    <div class="col-3">
+                        <div class="decorativo1">
+                            <img src="../images/posicaoMedia.svg" width="80" />
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="media">
+                            <div class="rounded2">
+                                <div class="textoMedia">
+                                    <p class="text">MÉDIA</p>
+                                    <p class="text">20%</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <a class="whatsapp-link" href="https://web.whatsapp.com/send?phone=5531993268743&amp;text=Ol%C3%A1%2C%20pode%20me%20ajudar%20com%20uma%20dúvida?", target="_blank">
+                            <i class="fa fa-whatsapp"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
 
     </div>
-  </div>
+</div>
+<script src="../js/loader.js"></script>
+<script src="../js/paginas/areaTutor.js"></script>

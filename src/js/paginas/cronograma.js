@@ -146,7 +146,7 @@ var cal = {
   };
   
   // Desenha o seletor de mês e ano
-  window.addEventListener("load", function () {
+  $(function () {
     // Pega a data atual
     var now = new Date(),
         nowMth = now.getMonth(),

@@ -1,5 +1,28 @@
 <link href="../css/paginas/circular-progress.css" rel="stylesheet">
 <link href="../css/paginas/area-aluno.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+<style>
+    .whatsapp-link {
+        margin-bottom: 20px;
+        float: right;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 1px 1px 2px #888;
+        z-index: 1000;
+    }
+
+    .fa-whatsapp {
+        margin-top: 16px;
+    }
+</style>
+
 <div id="titulo" class="d-none">Área do aluno</div>
 <article>
     <div class="container">
@@ -18,7 +41,7 @@
             <div class="col-md-8">
                 <div class="row pb-4">
                     <div class="col-md-12 titulo-progresso mx-auto">
-                        Progresso das atividades:
+                        Progresso das Matérias:
                     </div>
 
                 </div>
@@ -36,7 +59,7 @@
                                 <div class="h2 font-weight-bold">45<small class="small">%</small></div>
                             </div>
                         </div>
-                        <h4 class="pt-3">Atividade 1</h4>
+                        <h4 class="pt-3">Matéria 1</h4>
                     </div>
                     <div class="col text-center text-secondary">
                         <div class="circular-progress mx-auto" data-value='55'>
@@ -51,7 +74,7 @@
                                 <div class="h2 font-weight-bold">55<small class="small">%</small></div>
                             </div>
                         </div>
-                        <h4 class="pt-3">Atividade 2</h4>
+                        <h4 class="pt-3">Matéria 2</h4>
                     </div>
                     <div class="col text-center text-secondary">
                         <div class="circular-progress mx-auto" data-value='40'>
@@ -66,7 +89,7 @@
                                 <div class="h2 font-weight-bold">40<small class="small">%</small></div>
                             </div>
                         </div>
-                        <h4 class="pt-3">Atividade 3</h4>
+                        <h4 class="pt-3">Matéria 3</h4>
                     </div>
                     <div class="col text-center text-secondary">
                         <div class="circular-progress mx-auto" data-value='33'>
@@ -81,7 +104,7 @@
                                 <div class="h2 font-weight-bold">33<small class="small">%</small></div>
                             </div>
                         </div>
-                        <h4 class="pt-3">Atividade 4</h4>
+                        <h4 class="pt-3">Matéria 4</h4>
                     </div>
                 </div>
                 <div class="row">
@@ -143,10 +166,19 @@
     <div class="container">
         <div class="row align-items-end">
             <div class="col">
-                <img src="../images/space.png" height="100" class="d-inline-block align-text-top">
+                <a href="#ead-trilha-aluno" style="position: relative;">
+                    <img src="../images/space.png" height="100" class="d-inline-block align-text-top">
+                    <span style="position: absolute;
+                    top: 35px;
+                    font-size: 30px;
+                    color: #63b766;">Estudar</span>
+                </a>
             </div>
             <div class="col chat-icon">
-                <img src="../images/chat.png" height="100" class="d-inline-block align-text-top">
+                <a class="whatsapp-link" href="https://web.whatsapp.com/send?phone=5531993268743&amp;text=Ol%C3%A1%2C%20pode%20me%20ajudar%20com%20uma%20dúvida?", target="_blank">
+                    <i class="fa fa-whatsapp"></i>
+                </a>
+                <!-- <img src="../images/chat.png" height="100" class="d-inline-block align-text-top"> -->
             </div>
         </div>
     </div>

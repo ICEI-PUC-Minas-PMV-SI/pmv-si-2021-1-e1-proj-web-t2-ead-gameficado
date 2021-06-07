@@ -1,0 +1,50 @@
+.trilha {
+    font-family: 'Indie Flower', serif;
+    display: flex;
+    background-image: url(../../images/bg_technologies_1.png), url(../../images/bg_technologies_2.svg);
+    background-repeat: no-repeat;
+    background-position: 0 0, 100% 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.trilha {
+    height: calc(100vh - 180px);
+}
+
+.lego-image {
+    background-image: unset !important;
+}
+
+.fases {
+    width: calc(100% - 120px);
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.trilha .row {
+    margin-top: 70px;
+}
+
+.titulo-fase {
+    position: relative;
+}
+
+.titulo-fase span{
+    position: absolute;
+    left: 0;
+    top: 60px;
+}
+
+.titulo-fase:hover img {
+    transform: scale(1.1);
+    transition: ease 0.4s;
+}
+
+.titulo-atividade {
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 20px;
+    background-color: #7952b366;
+}
