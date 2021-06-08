@@ -1,5 +1,4 @@
- 
- $(function () {
+$(function () {
     $(".avatar-select").on("click", function(event) {
         var avatars = document.getElementsByClassName("avatar-select");
         for (let index = 0; index < avatars.length; index++) {
@@ -7,27 +6,27 @@
             element.classList.remove("avatar-selecionado")
         }
         this.classList.add("avatar-selecionado");
-        event.preventDefault();
     });
 
-    $("#cadastroTutorForm").on("submit", function(event) {
+    $("#cadastroAlunoForm").on("submit", function(event) {
         event.preventDefault();
         submitForm($(this), function (data) {
             data.avatar = $(".avatar-selecionado").prop("src")
 
-            var tutores = [];
-            if(localStorage.getItem("tutores")) {
-                tutores = JSON.parse(localStorage.getItem("tutores"));
-                if (tutores.filter(x => x.email == data.email || x.criTuT == data.criTuT).length > 0) {
-                    alert("Tutor já cadastrado no sistema!");
+            var alunos = [];
+            if(localStorage.getItem("alunos")) {
+                alunos = JSON.parse(localStorage.getItem("alunos"));
+                if (alunos.filter(x => x.usuario == data.usuario).length > 0) {
+                    alert("Aluno já cadastrado no sistema!");
                     return;
                 }
             }
 
-            tutores.push(data);
+            alunos.push(data);
 
-            localStorage.setItem("tutores", JSON.stringify(tutores));
-            location.href = "login.html";
+            localStorage.setItem("alunos", JSON.stringify(alunos));
+
+            document.location = "#ead-area-tutor";
         })
     });
 })

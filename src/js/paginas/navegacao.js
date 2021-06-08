@@ -16,7 +16,17 @@ $(function () {
         if (window.location.hash) {
             carregarPagina("paginas/" + window.location.hash.replace("#ead-", "") + ".html")
         } else {
-            carregarPagina("paginas/home.html")
+            try {
+                if(JSON.parse(localStorage.getItem("usuario")).tipo == "aluno") {
+                    carregarPagina("paginas/area-aluno.html");
+                } else {
+                    carregarPagina("paginas/area-tutor.html");
+                }
+            } catch (error) {
+                localStorage.removeItem("usuario");
+                location.href = "/index.html";
+            }
+            
         }
     }
 

@@ -30,3 +30,13 @@
 .escolhaAvatar {
     border-color: #3e1ee1;
 }
+
+.avatar-selecionado {
+    border: 3px solid blueviolet;
+    transform: scale(1.2);
+}
+
+.avatar-select {
+    max-width: 50px;
+    max-height: 50px;
+}

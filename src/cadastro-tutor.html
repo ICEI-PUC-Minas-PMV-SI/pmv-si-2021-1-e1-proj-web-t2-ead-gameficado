@@ -67,28 +67,27 @@
     <div style="margin-top: 10px;">
     <div>
         <div class="container mb-5">
-            <form id="cadastroTutorForm" method="POST" action="" class="formulario col">
+            <form id="cadastroTutorForm" class="formulario col">
                 <div class="row">
                     <div id="listaCadTut" class="col-md">
                         <div style=" padding-bottom: 10px; ">
-                            <input type="text " class="form-control " placeholder="Nome Completo" id="nome" required>
+                            <input type="text " class="form-control " placeholder="Nome Completo" name="nome" required>
                         </div>
 
                         <div style="padding-bottom: 10px; ">
-                            <input type="text " class="form-control " placeholder="Data de nascimento" id="dtNs"
-                                required>
+                            <input type="text " class="form-control " placeholder="Data de nascimento" name="dtNs">
                         </div>
 
                         <div style=" padding-bottom: 10px; ">
-                            <input type="email " class="form-control " placeholder="Email" id="email" required>
+                            <input type="email " class="form-control " placeholder="Email" name="email" required>
                         </div>
 
                         <div style="padding-bottom: 10px; ">
-                            <input type="text " class="form-control " placeholder="Celular" id="celuar" required>
+                            <input type="text " class="form-control " placeholder="Celular" name="celuar" >
                         </div>
 
                         <div style="padding-bottom: 10px; ">
-                            <input type="text " class="form-control " placeholder="Profissão" id="prof" required>
+                            <input type="text " class="form-control " placeholder="Profissão" name="prof" >
                         </div>
 
                         <!-- CIDADE / ESTADO -->
@@ -98,13 +97,12 @@
                             <div style="padding-bottom: 10px; ">
                                 <div class="row ">
                                     <div class="col-9 ">
-                                        <input type="text " class="form-control " placeholder="Cidade" id="cidade"
-                                            required>
+                                        <input type="text " class="form-control " placeholder="Cidade" name="cidade">
 
                                     </div>
 
                                     <div class="col-3 " style="padding-bottom: 10px; ">
-                                        <select class="form-control " id="inlineFormCustomSelect" id="estado">
+                                        <select class="form-control " id="inlineFormCustomSelect" name="estado">
                                             <option value="ac ">Estado</option>
                                             <option value="ac ">AC</option>
                                             <option value="al ">AL</option>
@@ -139,12 +137,12 @@
                                 </div>
 
                                 <div style="padding-bottom: 10px; ">
-                                    <input type="text " class="form-control " placeholder="Login do Tutor" id="criTuT"
+                                    <input type="text " class="form-control " placeholder="Login do Tutor" name="criTuT"
                                         required>
                                 </div>
                                 <div class="col-4 " style="margin-left: -15px; ">
                                     <div style="padding-bottom: 10px; ">
-                                        <input type="password" class="form-control" id="inputPassword2"
+                                        <input type="password" class="form-control" name="inputPassword2"
                                             placeholder="Senha" required>
                                     </div>
 
@@ -160,167 +158,167 @@
                     <div class="col-md">
                         <div class="escolha ">
                             </h2>Escolha seu avatar</h2>
-
+                            <input type="text" class="d-none">
                         </div>
 
                         <div>
-                            <figure class="figure ">
+                            <figure class="figure">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-1.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-2.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-3.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-4.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-5.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-6.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-7.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                <input type="image"  src="images/163800-kids-avatars/png/girl-7.png "
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-8.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-9.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-10.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-11.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select avatar-selecionado">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-12.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-13.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-14.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-15.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/girl-16.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-1.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-2.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-3.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-4.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-5.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-6.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-7.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-8.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-9.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-10.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-11.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-12.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-13.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-14.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-15.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                             <figure class="figure ">
                                 <input type="image" src="images/163800-kids-avatars/png/boy-16.png "
-                                    style="max-width: 50px; max-height: 50px;">
+                                    class="avatar-select">
                             </figure>
 
                         </div>
@@ -387,7 +385,8 @@
         location.href = "ead.html";
     }
 </script>
-<script src="../js/paginas/main_ct.js"></script>
+<script src="js/paginas/form-util.js"></script>
+<script src="./js/paginas/cadastroTutor.js"></script>
 
 
 </body>
