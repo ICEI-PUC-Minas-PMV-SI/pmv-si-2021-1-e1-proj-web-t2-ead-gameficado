@@ -65,9 +65,9 @@
        
     <div id="titulo" class="d-none">Cadastro do Tutor</div>
     <div style="margin-top: 10px;">
-    <div>
-        <div class="container mb-5">
-            <form id="cadastroTutorForm" class="formulario col">
+    <div id="cadastro-div">
+        <div class="container mb-5" style="min-height: 450px;">
+            <form id="cadastroTutorForm" class="formulario col" style="width: 650px; float: left;">
                 <div class="row">
                     <div id="listaCadTut" class="col-md">
                         <div style=" padding-bottom: 10px; ">
@@ -136,193 +136,31 @@
                                     </div>
                                 </div>
 
-                                <div style="padding-bottom: 10px; ">
-                                    <input type="text " class="form-control " placeholder="Login do Tutor" name="criTuT"
-                                        required>
-                                </div>
-                                <div class="col-4 " style="margin-left: -15px; ">
-                                    <div style="padding-bottom: 10px; ">
-                                        <input type="password" class="form-control" name="inputPassword2"
-                                            placeholder="Senha" required>
+                                <div class="row">
+                                    <div class="col-8">
+                                        <input type="text " class="form-control " placeholder="Login do Tutor" name="criTuT"
+                                            required>
                                     </div>
-
+                                    <div class="col-4">
+                                        <div style="padding-bottom: 10px; ">
+                                            <input type="password" class="form-control" name="inputPassword2"
+                                                placeholder="Senha" required>
+                                        </div>
+    
+                                    </div>
                                 </div>
-
+                                <div class="row">
+                                    <div class="col-8">
+                                        <button id="btn-submit-cad" type="submit " class="btn btn-primary ">Enviar</button>
+                                    </div>
+                                </div>
 
                             </div>
 
-                            <button type="submit " class="btn btn-primary ">Enviar</button>
                         </div>
 
                     </div>
-                    <div class="col-md">
-                        <div class="escolha ">
-                            </h2>Escolha seu avatar</h2>
-                            <input type="text" class="d-none">
-                        </div>
-
-                        <div>
-                            <figure class="figure">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-1.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-2.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-3.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-4.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-5.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-6.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image"  src="images/163800-kids-avatars/png/girl-7.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-8.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-9.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-10.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-11.png "
-                                    class="avatar-select avatar-selecionado">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-12.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-13.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-14.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-15.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/girl-16.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-1.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-2.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-3.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-4.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-5.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-6.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-7.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-8.png "
-                                    class="avatar-select">
-                            </figure>
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-9.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-10.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-11.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-12.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-13.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-14.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-15.png "
-                                    class="avatar-select">
-                            </figure>
-
-                            <figure class="figure ">
-                                <input type="image" src="images/163800-kids-avatars/png/boy-16.png "
-                                    class="avatar-select">
-                            </figure>
-
-                        </div>
-                    </div>
+                    
                 </div>
             </form>
 
@@ -332,7 +170,174 @@
             <div class="container" style="display: contents;">
 
                 <div class="row">
-                    
+                    <div class="col-sm-12">
+                        <div class="escolha ">
+                            </h2>Escolha seu avatar</h2>
+                            <input type="text" class="d-none">
+                        </div>
+
+                        <div>
+                            <figure class="figure">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-1.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-2.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-3.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-4.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-5.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-6.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image"  src="images/163800-kids-avatars/png/girl-7.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-8.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-9.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-10.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-11.png"
+                                    class="avatar-select avatar-selecionado">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-12.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-13.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-14.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-15.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/girl-16.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-1.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-2.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-3.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-4.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-5.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-6.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-7.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-8.png"
+                                    class="avatar-select">
+                            </figure>
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-9.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-10.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-11.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-12.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-13.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-14.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-15.png"
+                                    class="avatar-select">
+                            </figure>
+
+                            <figure class="figure ">
+                                <input type="image" src="images/163800-kids-avatars/png/boy-16.png"
+                                    class="avatar-select">
+                            </figure>
+
+                        </div>
+                    </div>
                 </div>
 
             </div>

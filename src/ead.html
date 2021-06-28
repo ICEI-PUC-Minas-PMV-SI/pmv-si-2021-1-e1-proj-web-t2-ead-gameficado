@@ -12,6 +12,7 @@
     <link href="./css/paginas/site.css" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela+Round">
     <title>EAD Gamificado</title>
+    <link href="css/paginas/cadastro-tutor.css" rel="stylesheet">
 </head>
 
 <body class="lego-image">
@@ -29,13 +30,35 @@
                     <span id="nome-login" class="align-middle text-white"></span>
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                    <li><a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#perfilModal" id="peril"
+                            href="#">Perfil</a></li>
                     <li><a class="dropdown-item" id="sair" href="#">Sair</a></li>
                 </ul>
             </div>
         </nav>
     </header>
 
+    <div id="perfilModal" tabindex="100" class="modal fade ">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Perfil Tutor</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div id="modal-perfil-content"></div>
+                </div>
+                <div class="modal-footer">
+                    <button id="excluir-perfil" type="button" class="btn btn-secondary" data-bs-dismiss="modal">Excluir minha conta</button>
+                    <button id="salvar-perfil" type="button" class="btn btn-primary">Salvar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="pagina"></div>
+
+    
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
@@ -43,8 +66,10 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous">
     </script>
+    <script src="./js/paginas/form-util.js"></script>
     <script src="./js/paginas/circular-progress.js"></script>
     <script src="./js/paginas/navegacao.js"></script>
+    <script src="./js/paginas/perfil.js"></script>
     <script>
         if (!localStorage.getItem("usuario")) {
             location.href = "index.html";
@@ -53,7 +78,7 @@
             $("#nome-login").text(usuario.nome);
             $("#avatar-login").prop("src", usuario.avatar);
 
-            if(!localStorage.getItem("alunos")) {
+            if (!localStorage.getItem("alunos")) {
                 document.location = "#ead-cadastro-aluno";
             }
         }
