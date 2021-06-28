@@ -27,7 +27,8 @@ $(function () {
                 });
                 $("#btn-submit-cad").remove();
                 $(".avatar-selecionado").removeClass("avatar-selecionado");
-                $(`input[src="${usuario.avatar.substring(usuario.avatar.indexOf('images/'))}"]`).addClass("avatar-selecionado");
+                var prefix = (perfil == "alunos")? "../" : "";
+                $(`input[src="${prefix}${usuario.avatar.substring(usuario.avatar.indexOf('images/'))}"]`).addClass("avatar-selecionado");
 
                 $(".avatar-select").on("click", function(event) {
                     var avatars = document.getElementsByClassName("avatar-select");
@@ -54,7 +55,10 @@ $(function () {
                                     pessoa[index] = data;
                                 }
                             }
+
+                            data.tipo = (perfil == "tutores")? "tutor" : "aluno";
                             localStorage.setItem(perfil, JSON.stringify(pessoa));
+
                             localStorage.setItem("usuario", JSON.stringify(data));
                             location.reload();
                         }
