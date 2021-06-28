@@ -26,10 +26,9 @@ Caso ele opte por ir em "Quem somos" conseguirá ter acesso a dados de texto exp
 Se ele optar pelo caminho de "Dúvidas", terá a opção de cadastrar uma dúvida, colocando seu nome, sobrenome, selecionando sua atividade, e-mail e a dúvida em si.
 Caso escolha o “Cadastrar Tutor”, terá acesso a uma página de cadastramento de tutor na qual deve inserir o nome completo, data de nascimento, e-mail, celular, profissão, cidade, Estado e definir se é tutor de algum aluno.
 Caso ele opte pelo “Login”, deverá digitar os seus dados de Usuário e senha.
-Quando logar ele poderá ter acesso a uma de duas seções, a de “Área do Tutor” e a de “Área do Aluno”, se ele logar como tutor, terá acesso a uma seção que permite o cadastramento de alunos, de atividades, de grupo de alunos, o cadastramento de cronograma, a avaliação de atividades, o acompanhamento do desempenho de alunos cadastrados e um link para conversar com o aluno.
+Quando logar ele poderá ter acesso a uma de duas seções, a de “Área do Tutor” e a de “Área do Aluno”, se ele logar como tutor, terá acesso a uma seção que permite o cadastramento de alunos, de atividades, o cadastramento de cronograma, a avaliação de atividades, o acompanhamento do desempenho de alunos cadastrados e um link para conversar com o aluno.
 Caso ele opte pelo “Cadastro de Aluno”, será direcionado para uma página em que deve cadastrar o nome completo do aluno, a data de nascimento, o e-mail, o celular, a série, a cidade, o Estado, o username e o password.
 Se ele escolher “Cadastrar Atividades” terá acesso a possibilidade de cadastrar atividades e recompensas de acordo com o nome do aluno, a matéria cursada, a atividade a ser feita, a avaliação, a localização no mapa, a data de entrega prevista e pode, também, excluir atividades ou editá-las.
-Caso opte por “Grupo de Alunos” terá a possibilidade de acessar o chat para conversar com um grupo de alunos.
 Caso venha a optar por “Cronograma”, poderá cadastrar as datas de entrega e qualquer outra particularidade relacionada a sua função como Tutor.
 Se escolher “Avaliar atividades, terá como escolher se as respostas dadas pelo aluno estão conforme o que era o esperado, marcando-a como correta ou incorreta.
 Caso escolha o link do chat de bate-papo, será direcionado para o Whatsapp para conversar com a criança pela qual é responsável.

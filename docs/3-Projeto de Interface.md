@@ -50,7 +50,7 @@ Figura 5 - Tela de Cadastramento do Tutor
 A tela de Área do tutor mostra os itens necessários para que o tutor faça o controle de dados e cadastramentos de coisas voltadas ao aluno pelo qual é responsável. Os itens dessa página são:
 * Cabeçalho - Contendo a logo e o nome do local no sistema em que o usuário se encontra;
 * Área de cadastramento - Permitindo ao tutor um redirecionamento para a página de cadastramento de aluno;
-* Área de Controle - Contendo pontos para o usuário Tutor (já cadastrado) cadastrar atividades para o aluno pelo qual é responsável, montar ou liberar a participação do seu aluno no grupo de alunos, elaborar e checar cronogramas e avaliar atividades (para todas essas funcionalidades, há redirecionamento para outras páginas);
+* Área de Controle - Contendo pontos para o usuário Tutor (já cadastrado) cadastrar atividades para o aluno pelo qual é responsável, elaborar e checar cronogramas e avaliar atividades (para todas essas funcionalidades, há redirecionamento para outras páginas);
 * Área de Checagem - Permitindo acesso aos dados da evolução do usuário aluno.
 * Chat - Permitindo conversação entre o Tutor e o aluno pelo qual é responsável.
 ![Figura 6 - Tela de Área do Tutor](img/Area-do-Tutor.jpg)

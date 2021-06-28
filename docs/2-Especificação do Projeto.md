@@ -254,7 +254,6 @@ Com base no questionário das personas foram identificadas as histórias de usu�
 |Tutor| Gerenciar Atividades| Cadastrar, alterar, consultar, excluir atividades, definir objetivos e atribuir premiações|
 |Tutor| Consultar pessoas vinculadas ao meu perfil| Verificar quem está associado ao meu perfil|
 |Tutor| Visualizar o desenvolvimento das atividades|Atribuir  pontuações as atividades realizadas e avaliar o cronograma estabelecido|
-|Tutor| Gerenciar grupo de crianças| Permitir a socialização e que sejam realizadas atividades em conjunto|
 
 **HU-03**
 
@@ -284,7 +283,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Cadastrar e gerenciar tarefas| ALTA |  
 |RF-005| Cadastrar e gerenciar premiações| ALTA | 
 |RF-006| Cadastrar e gerenciar cronograma de estudo| MÉDIA | 
-|RF-007| Cadastrar e gerenciar grupos e ranking | MÉDIA | 
+|RF-007| Gerenciar ranking | MÉDIA | 
 |RF-008| Efetuar avaliações e pontuações | BAIXA | 
 |RF-009| Visualizar resultado individual e total | BAIXA | 
 |RF-010| Conversar via chat ao vivo | MÉDIA | 

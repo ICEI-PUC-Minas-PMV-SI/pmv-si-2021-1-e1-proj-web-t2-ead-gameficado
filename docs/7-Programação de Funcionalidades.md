@@ -53,7 +53,7 @@ RF-005 - Cadastrar e gerenciar premiações;
 
 RF-006 - Cadastrar e gerenciar cronograma de estudo;
 
-RF-007 - Cadastrar e gerenciar grupos e ranking;
+RF-007 - Gerenciar ranking;
 
 RF-008 - Efetuar avaliações e pontuações;
 

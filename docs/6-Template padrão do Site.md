@@ -14,7 +14,6 @@ O template criado é composto pelas seguintes telas:
 * Tela de Login;
 * Tela de Cadastro de Aluno;
 * Tela de Área do Tutor;
-* Tela de Grupo de Alunos;
 * Tela de Cadastro de Atividades;
 * Tela de Cronograma;
 * Tela de Área do Aluno;
@@ -78,11 +77,6 @@ Tela contendo progresso de alunos, desempenho em matérias que o tutor cadastrar
 
 ![Figura 20 – Área do Tutor ](img/figura20.PNG)
 </center>Figura 20 – Tela de Área do Tutor</center>
-
-
-# Tela de Grupo de Alunos
-
-Tela contendo Chat para conversação entre alunos.
 
 
 # Tela de Cadastro de Atividades

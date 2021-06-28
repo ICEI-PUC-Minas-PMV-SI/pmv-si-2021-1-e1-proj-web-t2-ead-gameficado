@@ -32,7 +32,7 @@ A lista abaixo identifica os itens (casos de uso, requisitos funcionais e não f
   
 • O sistema deve possibilitar ao usuário administrador a realização de cadastros e gerenciamentos de cadastros.   
 • O sistema deve possibilitar ao usuário comum a realização de cadastro.    
-• O sistema deve possibilitar ao usuário administrador o gerenciamento das funcionalidades como gerenciar os cadastros, tarefas, premiações, cronogramas de estudos, grupos, rankings, avaliações e pontuações.     
+• O sistema deve possibilitar ao usuário administrador o gerenciamento das funcionalidades como gerenciar os cadastros, tarefas, premiações, cronogramas de estudos, rankings, avaliações e pontuações.     
 • O sistema deve possuir níveis de acesso.    
 • O sistema deve possibilitar a visualização de resultados individuais e totais, de acordo com o nível de acesso do usuário.   
 • O sistema deve possuir um Design para mobile responsivo.    
