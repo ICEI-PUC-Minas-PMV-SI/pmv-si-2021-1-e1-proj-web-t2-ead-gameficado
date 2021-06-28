@@ -15,7 +15,10 @@ Resultados dos Casos de Teste
 |Tipo     | Subtipo  | Teste                                        | Resultado | Data | Responsável|Descrição|
 |---------|----------|----------------------------------------------|-----------|------|------------|---------|
 |Funcional|Requisitos| Cadastro Responsável - RF001|Ok|27.06.2021|Letícia| Foi possível cadastrar Responsável.|
-|Funcional|Requisitos| Gerenciar Responsável - RF001|Falha|27.06.2021|Letícia|Não foi pessível excluir ou Editar perfil do Responsável.|
+|Funcional|Requisitos| Gerenciar Responsável - RF001|Ok|27.06.2021|Letícia|Foi pessível excluir ou Editar dados do perfil do Responsável.|
 |Funcional|Requisitos| Cadastrar Criança - RF002|oK|27.06.2021|Letícia| Foi possível cadastrar Criança.|
-|Funcional|Requisitos| Gerenciar Criança - RF002|Falha|27.06.2021|Letícia|Não foi possível Editar ou excluir perfil de criança, mas foi possível gerenciar notas, cadastrar atividades, só não editar o perfil com dados pessoais da criança.|
-|Funcional|Requisitos| Cadastrar Criança - RF002|oK|27.06.2021|Letícia| Foi possível cadastrar Criança.|
+|Funcional|Requisitos| Gerenciador Dados de Criança - RF002|Falha|27.06.2021|Letícia| Houve um erro de redirecionamento de tela após editar cadastro da criança, levando o perfil da criança para o perfil do tutor diretamente.|
+|Funcional|Requisitos| Gerenciar Criança - RF002|Ok|27.06.2021|Letícia|Foi possível Editar ou excluir perfil de criança, Foi possível acessar página para gerenciar notas, cadastrar atividades , recompensas, acessar página de ranking de desenpenho e local para acesso ao chat do WhatsApp.|
+|Funcional|Requisitos| Cadastrar e Gerenciar tutores - RF003|oK|27.06.2021|Letícia| Foi possível cadastrar e Gerenciar os tutores.|
+
+
