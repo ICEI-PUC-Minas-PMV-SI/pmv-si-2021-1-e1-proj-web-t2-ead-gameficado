@@ -5,11 +5,3 @@ BRASIL, Decreto nº 9.057 de 25 de maio de 2017. **Regulamenta o art. 80 da Lei 
 RIOS, Alan. **Com aulas suspensas, EaD é o desafio para pais e alunos: Nova realidade de muitas escolas, aulas virtuais mudam dinâmica de aprendizado e exigem comprometimento e paciência, mas também possibilitam interação entre alunos, pais e professores em tempo de isolamento**. Correio Brazilense, 2020. Disponível em:<https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_educacaobasica/2020/04/03/interna-educacaobasica-2019,842057/com-aulas-suspensas-ead-e-o-desafio-para-pais-e-alunos.shtml>. Acesso em: 08 abr. 2021.
 
 PELLI, Débora; CÉSAR FREITAS VIEIRA, Flávio. **HISTÓRIA DA EDUCAÇÃO NA MODALIDADE A DISTÂNCIA**. CIET:EnPED, São Carlos, maio 2018. ISSN 2316-8722. Disponível em: <https://cietenped.ufscar.br/submissao/index.php/2018/article/view/907>. Acesso em: 08 abr. 2021.
-
-
-
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
